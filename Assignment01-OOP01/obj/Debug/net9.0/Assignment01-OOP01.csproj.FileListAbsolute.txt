@@ -1,0 +1,14 @@
+D:\Route\C#\Assignments\Solution\Assignment01-OOP01\Assignment01-OOP01\bin\Debug\net9.0\Assignment01-OOP01.exe
+D:\Route\C#\Assignments\Solution\Assignment01-OOP01\Assignment01-OOP01\bin\Debug\net9.0\Assignment01-OOP01.deps.json
+D:\Route\C#\Assignments\Solution\Assignment01-OOP01\Assignment01-OOP01\bin\Debug\net9.0\Assignment01-OOP01.runtimeconfig.json
+D:\Route\C#\Assignments\Solution\Assignment01-OOP01\Assignment01-OOP01\bin\Debug\net9.0\Assignment01-OOP01.dll
+D:\Route\C#\Assignments\Solution\Assignment01-OOP01\Assignment01-OOP01\bin\Debug\net9.0\Assignment01-OOP01.pdb
+D:\Route\C#\Assignments\Solution\Assignment01-OOP01\Assignment01-OOP01\obj\Debug\net9.0\Assignment01-OOP01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\C#\Assignments\Solution\Assignment01-OOP01\Assignment01-OOP01\obj\Debug\net9.0\Assignment01-OOP01.AssemblyInfoInputs.cache
+D:\Route\C#\Assignments\Solution\Assignment01-OOP01\Assignment01-OOP01\obj\Debug\net9.0\Assignment01-OOP01.AssemblyInfo.cs
+D:\Route\C#\Assignments\Solution\Assignment01-OOP01\Assignment01-OOP01\obj\Debug\net9.0\Assignment01-OOP01.csproj.CoreCompileInputs.cache
+D:\Route\C#\Assignments\Solution\Assignment01-OOP01\Assignment01-OOP01\obj\Debug\net9.0\Assignment01-OOP01.dll
+D:\Route\C#\Assignments\Solution\Assignment01-OOP01\Assignment01-OOP01\obj\Debug\net9.0\refint\Assignment01-OOP01.dll
+D:\Route\C#\Assignments\Solution\Assignment01-OOP01\Assignment01-OOP01\obj\Debug\net9.0\Assignment01-OOP01.pdb
+D:\Route\C#\Assignments\Solution\Assignment01-OOP01\Assignment01-OOP01\obj\Debug\net9.0\Assignment01-OOP01.genruntimeconfig.cache
+D:\Route\C#\Assignments\Solution\Assignment01-OOP01\Assignment01-OOP01\obj\Debug\net9.0\ref\Assignment01-OOP01.dll
