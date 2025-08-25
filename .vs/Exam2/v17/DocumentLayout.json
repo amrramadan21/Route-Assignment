@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Route\\Exams\\Exam2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA1DA09-3D29-4FF6-AA14-0AB9B73DC84E}|Exam2\\Exam2.csproj|d:\\route\\exams\\exam2\\exam2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA1DA09-3D29-4FF6-AA14-0AB9B73DC84E}|Exam2\\Exam2.csproj|solutionrelative:exam2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA1DA09-3D29-4FF6-AA14-0AB9B73DC84E}|Exam2\\Exam2.csproj|d:\\route\\exams\\exam2\\exam2\\examination system\\buildexam\\exambuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA1DA09-3D29-4FF6-AA14-0AB9B73DC84E}|Exam2\\Exam2.csproj|solutionrelative:exam2\\examination system\\buildexam\\exambuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA1DA09-3D29-4FF6-AA14-0AB9B73DC84E}|Exam2\\Exam2.csproj|d:\\route\\exams\\exam2\\exam2\\examination system\\exams\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA1DA09-3D29-4FF6-AA14-0AB9B73DC84E}|Exam2\\Exam2.csproj|solutionrelative:exam2\\examination system\\exams\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA1DA09-3D29-4FF6-AA14-0AB9B73DC84E}|Exam2\\Exam2.csproj|d:\\route\\exams\\exam2\\exam2\\examination system\\exams\\exams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA1DA09-3D29-4FF6-AA14-0AB9B73DC84E}|Exam2\\Exam2.csproj|solutionrelative:exam2\\examination system\\exams\\exams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA1DA09-3D29-4FF6-AA14-0AB9B73DC84E}|Exam2\\Exam2.csproj|d:\\route\\exams\\exam2\\exam2\\examination system\\exams\\practicalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA1DA09-3D29-4FF6-AA14-0AB9B73DC84E}|Exam2\\Exam2.csproj|solutionrelative:exam2\\examination system\\exams\\practicalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA1DA09-3D29-4FF6-AA14-0AB9B73DC84E}|Exam2\\Exam2.csproj|d:\\route\\exams\\exam2\\exam2\\examination system\\questions\\truefalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA1DA09-3D29-4FF6-AA14-0AB9B73DC84E}|Exam2\\Exam2.csproj|solutionrelative:exam2\\examination system\\questions\\truefalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA1DA09-3D29-4FF6-AA14-0AB9B73DC84E}|Exam2\\Exam2.csproj|d:\\route\\exams\\exam2\\exam2\\examination system\\exams\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA1DA09-3D29-4FF6-AA14-0AB9B73DC84E}|Exam2\\Exam2.csproj|solutionrelative:exam2\\examination system\\exams\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA1DA09-3D29-4FF6-AA14-0AB9B73DC84E}|Exam2\\Exam2.csproj|d:\\route\\exams\\exam2\\exam2\\examination system\\questions\\mcqquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA1DA09-3D29-4FF6-AA14-0AB9B73DC84E}|Exam2\\Exam2.csproj|solutionrelative:exam2\\examination system\\questions\\mcqquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA1DA09-3D29-4FF6-AA14-0AB9B73DC84E}|Exam2\\Exam2.csproj|d:\\route\\exams\\exam2\\exam2\\examination system\\questions\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA1DA09-3D29-4FF6-AA14-0AB9B73DC84E}|Exam2\\Exam2.csproj|solutionrelative:exam2\\examination system\\questions\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA1DA09-3D29-4FF6-AA14-0AB9B73DC84E}|Exam2\\Exam2.csproj|d:\\route\\exams\\exam2\\exam2\\examination system\\questions\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA1DA09-3D29-4FF6-AA14-0AB9B73DC84E}|Exam2\\Exam2.csproj|solutionrelative:exam2\\examination system\\questions\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExamBuilder.cs",
+              "DocumentMoniker": "D:\\Route\\Exams\\Exam2\\Exam2\\Examination system\\BuildExam\\ExamBuilder.cs",
+              "RelativeDocumentMoniker": "Exam2\\Examination system\\BuildExam\\ExamBuilder.cs",
+              "ToolTip": "D:\\Route\\Exams\\Exam2\\Exam2\\Examination system\\BuildExam\\ExamBuilder.cs",
+              "RelativeToolTip": "Exam2\\Examination system\\BuildExam\\ExamBuilder.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAG8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T16:57:27.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\Route\\Exams\\Exam2\\Exam2\\Examination system\\Exams\\Subject.cs",
+              "RelativeDocumentMoniker": "Exam2\\Examination system\\Exams\\Subject.cs",
+              "ToolTip": "D:\\Route\\Exams\\Exam2\\Exam2\\Examination system\\Exams\\Subject.cs",
+              "RelativeToolTip": "Exam2\\Examination system\\Exams\\Subject.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wCoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:51:24.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PracticalExam.cs",
+              "DocumentMoniker": "D:\\Route\\Exams\\Exam2\\Exam2\\Examination system\\Exams\\PracticalExam.cs",
+              "RelativeDocumentMoniker": "Exam2\\Examination system\\Exams\\PracticalExam.cs",
+              "ToolTip": "D:\\Route\\Exams\\Exam2\\Exam2\\Examination system\\Exams\\PracticalExam.cs",
+              "RelativeToolTip": "Exam2\\Examination system\\Exams\\PracticalExam.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:42:57.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FinalExam.cs",
+              "DocumentMoniker": "D:\\Route\\Exams\\Exam2\\Exam2\\Examination system\\Exams\\FinalExam.cs",
+              "RelativeDocumentMoniker": "Exam2\\Examination system\\Exams\\FinalExam.cs",
+              "ToolTip": "D:\\Route\\Exams\\Exam2\\Exam2\\Examination system\\Exams\\FinalExam.cs",
+              "RelativeToolTip": "Exam2\\Examination system\\Exams\\FinalExam.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:42:38.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exams.cs",
+              "DocumentMoniker": "D:\\Route\\Exams\\Exam2\\Exam2\\Examination system\\Exams\\Exams.cs",
+              "RelativeDocumentMoniker": "Exam2\\Examination system\\Exams\\Exams.cs",
+              "ToolTip": "D:\\Route\\Exams\\Exam2\\Exam2\\Examination system\\Exams\\Exams.cs",
+              "RelativeToolTip": "Exam2\\Examination system\\Exams\\Exams.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:38:35.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MCQQuestion.cs",
+              "DocumentMoniker": "D:\\Route\\Exams\\Exam2\\Exam2\\Examination system\\Questions\\MCQQuestion.cs",
+              "RelativeDocumentMoniker": "Exam2\\Examination system\\Questions\\MCQQuestion.cs",
+              "ToolTip": "D:\\Route\\Exams\\Exam2\\Exam2\\Examination system\\Questions\\MCQQuestion.cs",
+              "RelativeToolTip": "Exam2\\Examination system\\Questions\\MCQQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:29:23.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrueFalseQuestion.cs",
+              "DocumentMoniker": "D:\\Route\\Exams\\Exam2\\Exam2\\Examination system\\Questions\\TrueFalseQuestion.cs",
+              "RelativeDocumentMoniker": "Exam2\\Examination system\\Questions\\TrueFalseQuestion.cs",
+              "ToolTip": "D:\\Route\\Exams\\Exam2\\Exam2\\Examination system\\Questions\\TrueFalseQuestion.cs",
+              "RelativeToolTip": "Exam2\\Examination system\\Questions\\TrueFalseQuestion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:29:03.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\Route\\Exams\\Exam2\\Exam2\\Examination system\\Questions\\Question.cs",
+              "RelativeDocumentMoniker": "Exam2\\Examination system\\Questions\\Question.cs",
+              "ToolTip": "D:\\Route\\Exams\\Exam2\\Exam2\\Examination system\\Questions\\Question.cs",
+              "RelativeToolTip": "Exam2\\Examination system\\Questions\\Question.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:19:07.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "D:\\Route\\Exams\\Exam2\\Exam2\\Examination system\\Questions\\Answer.cs",
+              "RelativeDocumentMoniker": "Exam2\\Examination system\\Questions\\Answer.cs",
+              "ToolTip": "D:\\Route\\Exams\\Exam2\\Exam2\\Examination system\\Questions\\Answer.cs",
+              "RelativeToolTip": "Exam2\\Examination system\\Questions\\Answer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:15:21.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Route\\Exams\\Exam2\\Exam2\\Program.cs",
+              "RelativeDocumentMoniker": "Exam2\\Program.cs",
+              "ToolTip": "D:\\Route\\Exams\\Exam2\\Exam2\\Program.cs",
+              "RelativeToolTip": "Exam2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:11:24.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

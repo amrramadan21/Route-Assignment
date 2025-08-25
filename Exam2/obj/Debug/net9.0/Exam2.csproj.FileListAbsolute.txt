@@ -1,0 +1,14 @@
+D:\Route\Exams\Exam2\Exam2\bin\Debug\net9.0\Exam2.exe
+D:\Route\Exams\Exam2\Exam2\bin\Debug\net9.0\Exam2.deps.json
+D:\Route\Exams\Exam2\Exam2\bin\Debug\net9.0\Exam2.runtimeconfig.json
+D:\Route\Exams\Exam2\Exam2\bin\Debug\net9.0\Exam2.dll
+D:\Route\Exams\Exam2\Exam2\bin\Debug\net9.0\Exam2.pdb
+D:\Route\Exams\Exam2\Exam2\obj\Debug\net9.0\Exam2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Exams\Exam2\Exam2\obj\Debug\net9.0\Exam2.AssemblyInfoInputs.cache
+D:\Route\Exams\Exam2\Exam2\obj\Debug\net9.0\Exam2.AssemblyInfo.cs
+D:\Route\Exams\Exam2\Exam2\obj\Debug\net9.0\Exam2.csproj.CoreCompileInputs.cache
+D:\Route\Exams\Exam2\Exam2\obj\Debug\net9.0\Exam2.dll
+D:\Route\Exams\Exam2\Exam2\obj\Debug\net9.0\refint\Exam2.dll
+D:\Route\Exams\Exam2\Exam2\obj\Debug\net9.0\Exam2.pdb
+D:\Route\Exams\Exam2\Exam2\obj\Debug\net9.0\Exam2.genruntimeconfig.cache
+D:\Route\Exams\Exam2\Exam2\obj\Debug\net9.0\ref\Exam2.dll
