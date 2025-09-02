@@ -1,0 +1,14 @@
+D:\Route\C#\Assignments\Solution\Assignment01-ADV\Assignment01-ADV\bin\Debug\net9.0\Assignment01-ADV.exe
+D:\Route\C#\Assignments\Solution\Assignment01-ADV\Assignment01-ADV\bin\Debug\net9.0\Assignment01-ADV.deps.json
+D:\Route\C#\Assignments\Solution\Assignment01-ADV\Assignment01-ADV\bin\Debug\net9.0\Assignment01-ADV.runtimeconfig.json
+D:\Route\C#\Assignments\Solution\Assignment01-ADV\Assignment01-ADV\bin\Debug\net9.0\Assignment01-ADV.dll
+D:\Route\C#\Assignments\Solution\Assignment01-ADV\Assignment01-ADV\bin\Debug\net9.0\Assignment01-ADV.pdb
+D:\Route\C#\Assignments\Solution\Assignment01-ADV\Assignment01-ADV\obj\Debug\net9.0\Assignment01-ADV.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\C#\Assignments\Solution\Assignment01-ADV\Assignment01-ADV\obj\Debug\net9.0\Assignment01-ADV.AssemblyInfoInputs.cache
+D:\Route\C#\Assignments\Solution\Assignment01-ADV\Assignment01-ADV\obj\Debug\net9.0\Assignment01-ADV.AssemblyInfo.cs
+D:\Route\C#\Assignments\Solution\Assignment01-ADV\Assignment01-ADV\obj\Debug\net9.0\Assignment01-ADV.csproj.CoreCompileInputs.cache
+D:\Route\C#\Assignments\Solution\Assignment01-ADV\Assignment01-ADV\obj\Debug\net9.0\Assignment01-ADV.dll
+D:\Route\C#\Assignments\Solution\Assignment01-ADV\Assignment01-ADV\obj\Debug\net9.0\refint\Assignment01-ADV.dll
+D:\Route\C#\Assignments\Solution\Assignment01-ADV\Assignment01-ADV\obj\Debug\net9.0\Assignment01-ADV.pdb
+D:\Route\C#\Assignments\Solution\Assignment01-ADV\Assignment01-ADV\obj\Debug\net9.0\Assignment01-ADV.genruntimeconfig.cache
+D:\Route\C#\Assignments\Solution\Assignment01-ADV\Assignment01-ADV\obj\Debug\net9.0\ref\Assignment01-ADV.dll
