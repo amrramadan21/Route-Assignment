@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Route\\C#\\Assignments\\Solution\\Assignment03-ADV03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F100A943-75DC-486D-AE4E-C2EEED76BC56}|Assignment03-ADV03\\Assignment03-ADV03.csproj|d:\\route\\c#\\assignments\\solution\\assignment03-adv03\\assignment03-adv03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F100A943-75DC-486D-AE4E-C2EEED76BC56}|Assignment03-ADV03\\Assignment03-ADV03.csproj|solutionrelative:assignment03-adv03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F100A943-75DC-486D-AE4E-C2EEED76BC56}|Assignment03-ADV03\\Assignment03-ADV03.csproj|d:\\route\\c#\\assignments\\solution\\assignment03-adv03\\assignment03-adv03\\libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F100A943-75DC-486D-AE4E-C2EEED76BC56}|Assignment03-ADV03\\Assignment03-ADV03.csproj|solutionrelative:assignment03-adv03\\libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F100A943-75DC-486D-AE4E-C2EEED76BC56}|Assignment03-ADV03\\Assignment03-ADV03.csproj|d:\\route\\c#\\assignments\\solution\\assignment03-adv03\\assignment03-adv03\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F100A943-75DC-486D-AE4E-C2EEED76BC56}|Assignment03-ADV03\\Assignment03-ADV03.csproj|solutionrelative:assignment03-adv03\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F100A943-75DC-486D-AE4E-C2EEED76BC56}|Assignment03-ADV03\\Assignment03-ADV03.csproj|d:\\route\\c#\\assignments\\solution\\assignment03-adv03\\assignment03-adv03\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F100A943-75DC-486D-AE4E-C2EEED76BC56}|Assignment03-ADV03\\Assignment03-ADV03.csproj|solutionrelative:assignment03-adv03\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryEngine.cs",
+              "DocumentMoniker": "D:\\Route\\C#\\Assignments\\Solution\\Assignment03-ADV03\\Assignment03-ADV03\\LibraryEngine.cs",
+              "RelativeDocumentMoniker": "Assignment03-ADV03\\LibraryEngine.cs",
+              "ToolTip": "D:\\Route\\C#\\Assignments\\Solution\\Assignment03-ADV03\\Assignment03-ADV03\\LibraryEngine.cs",
+              "RelativeToolTip": "Assignment03-ADV03\\LibraryEngine.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:10:26.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookFunctions.cs",
+              "DocumentMoniker": "D:\\Route\\C#\\Assignments\\Solution\\Assignment03-ADV03\\Assignment03-ADV03\\BookFunctions.cs",
+              "RelativeDocumentMoniker": "Assignment03-ADV03\\BookFunctions.cs",
+              "ToolTip": "D:\\Route\\C#\\Assignments\\Solution\\Assignment03-ADV03\\Assignment03-ADV03\\BookFunctions.cs",
+              "RelativeToolTip": "Assignment03-ADV03\\BookFunctions.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:09:11.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Route\\C#\\Assignments\\Solution\\Assignment03-ADV03\\Assignment03-ADV03\\Book.cs",
+              "RelativeDocumentMoniker": "Assignment03-ADV03\\Book.cs",
+              "ToolTip": "D:\\Route\\C#\\Assignments\\Solution\\Assignment03-ADV03\\Assignment03-ADV03\\Book.cs",
+              "RelativeToolTip": "Assignment03-ADV03\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:07:52.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Route\\C#\\Assignments\\Solution\\Assignment03-ADV03\\Assignment03-ADV03\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment03-ADV03\\Program.cs",
+              "ToolTip": "D:\\Route\\C#\\Assignments\\Solution\\Assignment03-ADV03\\Assignment03-ADV03\\Program.cs",
+              "RelativeToolTip": "Assignment03-ADV03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T18:59:46.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
