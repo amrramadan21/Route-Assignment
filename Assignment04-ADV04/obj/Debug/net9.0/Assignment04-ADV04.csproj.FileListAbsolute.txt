@@ -1,0 +1,14 @@
+D:\Route\C#\Assignments\Solution\Assignment04-ADV04\Assignment04-ADV04\bin\Debug\net9.0\Assignment04-ADV04.exe
+D:\Route\C#\Assignments\Solution\Assignment04-ADV04\Assignment04-ADV04\bin\Debug\net9.0\Assignment04-ADV04.deps.json
+D:\Route\C#\Assignments\Solution\Assignment04-ADV04\Assignment04-ADV04\bin\Debug\net9.0\Assignment04-ADV04.runtimeconfig.json
+D:\Route\C#\Assignments\Solution\Assignment04-ADV04\Assignment04-ADV04\bin\Debug\net9.0\Assignment04-ADV04.dll
+D:\Route\C#\Assignments\Solution\Assignment04-ADV04\Assignment04-ADV04\bin\Debug\net9.0\Assignment04-ADV04.pdb
+D:\Route\C#\Assignments\Solution\Assignment04-ADV04\Assignment04-ADV04\obj\Debug\net9.0\Assignment04-ADV04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\C#\Assignments\Solution\Assignment04-ADV04\Assignment04-ADV04\obj\Debug\net9.0\Assignment04-ADV04.AssemblyInfoInputs.cache
+D:\Route\C#\Assignments\Solution\Assignment04-ADV04\Assignment04-ADV04\obj\Debug\net9.0\Assignment04-ADV04.AssemblyInfo.cs
+D:\Route\C#\Assignments\Solution\Assignment04-ADV04\Assignment04-ADV04\obj\Debug\net9.0\Assignment04-ADV04.csproj.CoreCompileInputs.cache
+D:\Route\C#\Assignments\Solution\Assignment04-ADV04\Assignment04-ADV04\obj\Debug\net9.0\Assignment04-ADV04.dll
+D:\Route\C#\Assignments\Solution\Assignment04-ADV04\Assignment04-ADV04\obj\Debug\net9.0\refint\Assignment04-ADV04.dll
+D:\Route\C#\Assignments\Solution\Assignment04-ADV04\Assignment04-ADV04\obj\Debug\net9.0\Assignment04-ADV04.pdb
+D:\Route\C#\Assignments\Solution\Assignment04-ADV04\Assignment04-ADV04\obj\Debug\net9.0\Assignment04-ADV04.genruntimeconfig.cache
+D:\Route\C#\Assignments\Solution\Assignment04-ADV04\Assignment04-ADV04\obj\Debug\net9.0\ref\Assignment04-ADV04.dll

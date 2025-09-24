@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Route\\C#\\Assignments\\Solution\\Assignment04-ADV04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAF59C7-549C-45F2-8D6A-2D13FF0119A0}|Assignment04-ADV04\\Assignment04-ADV04.csproj|d:\\route\\c#\\assignments\\solution\\assignment04-adv04\\assignment04-adv04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAF59C7-549C-45F2-8D6A-2D13FF0119A0}|Assignment04-ADV04\\Assignment04-ADV04.csproj|solutionrelative:assignment04-adv04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Route\\C#\\Assignments\\Solution\\Assignment04-ADV04\\Assignment04-ADV04\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment04-ADV04\\Program.cs",
+              "ToolTip": "D:\\Route\\C#\\Assignments\\Solution\\Assignment04-ADV04\\Assignment04-ADV04\\Program.cs",
+              "RelativeToolTip": "Assignment04-ADV04\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:17:15.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
