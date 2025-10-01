@@ -1,0 +1,14 @@
+D:\Route\C#\Assignments\Solution\AssignmentLINQ01\AssignmentLINQ01\bin\Debug\net9.0\AssignmentLINQ01.exe
+D:\Route\C#\Assignments\Solution\AssignmentLINQ01\AssignmentLINQ01\bin\Debug\net9.0\AssignmentLINQ01.deps.json
+D:\Route\C#\Assignments\Solution\AssignmentLINQ01\AssignmentLINQ01\bin\Debug\net9.0\AssignmentLINQ01.runtimeconfig.json
+D:\Route\C#\Assignments\Solution\AssignmentLINQ01\AssignmentLINQ01\bin\Debug\net9.0\AssignmentLINQ01.dll
+D:\Route\C#\Assignments\Solution\AssignmentLINQ01\AssignmentLINQ01\bin\Debug\net9.0\AssignmentLINQ01.pdb
+D:\Route\C#\Assignments\Solution\AssignmentLINQ01\AssignmentLINQ01\obj\Debug\net9.0\AssignmentLINQ01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\C#\Assignments\Solution\AssignmentLINQ01\AssignmentLINQ01\obj\Debug\net9.0\AssignmentLINQ01.AssemblyInfoInputs.cache
+D:\Route\C#\Assignments\Solution\AssignmentLINQ01\AssignmentLINQ01\obj\Debug\net9.0\AssignmentLINQ01.AssemblyInfo.cs
+D:\Route\C#\Assignments\Solution\AssignmentLINQ01\AssignmentLINQ01\obj\Debug\net9.0\AssignmentLINQ01.csproj.CoreCompileInputs.cache
+D:\Route\C#\Assignments\Solution\AssignmentLINQ01\AssignmentLINQ01\obj\Debug\net9.0\AssignmentLINQ01.dll
+D:\Route\C#\Assignments\Solution\AssignmentLINQ01\AssignmentLINQ01\obj\Debug\net9.0\refint\AssignmentLINQ01.dll
+D:\Route\C#\Assignments\Solution\AssignmentLINQ01\AssignmentLINQ01\obj\Debug\net9.0\AssignmentLINQ01.pdb
+D:\Route\C#\Assignments\Solution\AssignmentLINQ01\AssignmentLINQ01\obj\Debug\net9.0\AssignmentLINQ01.genruntimeconfig.cache
+D:\Route\C#\Assignments\Solution\AssignmentLINQ01\AssignmentLINQ01\obj\Debug\net9.0\ref\AssignmentLINQ01.dll

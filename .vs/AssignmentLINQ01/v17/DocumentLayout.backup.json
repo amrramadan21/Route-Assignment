@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Route\\C#\\Assignments\\Solution\\AssignmentLINQ01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B972DD79-4060-44E4-B383-76D425FBE5DB}|AssignmentLINQ01\\AssignmentLINQ01.csproj|d:\\route\\c#\\assignments\\solution\\assignmentlinq01\\assignmentlinq01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B972DD79-4060-44E4-B383-76D425FBE5DB}|AssignmentLINQ01\\AssignmentLINQ01.csproj|solutionrelative:assignmentlinq01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B972DD79-4060-44E4-B383-76D425FBE5DB}|AssignmentLINQ01\\AssignmentLINQ01.csproj|d:\\route\\c#\\assignments\\solution\\assignmentlinq01\\assignmentlinq01\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B972DD79-4060-44E4-B383-76D425FBE5DB}|AssignmentLINQ01\\AssignmentLINQ01.csproj|solutionrelative:assignmentlinq01\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B972DD79-4060-44E4-B383-76D425FBE5DB}|AssignmentLINQ01\\AssignmentLINQ01.csproj|d:\\route\\c#\\assignments\\solution\\assignmentlinq01\\assignmentlinq01\\data\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B972DD79-4060-44E4-B383-76D425FBE5DB}|AssignmentLINQ01\\AssignmentLINQ01.csproj|solutionrelative:assignmentlinq01\\data\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B972DD79-4060-44E4-B383-76D425FBE5DB}|AssignmentLINQ01\\AssignmentLINQ01.csproj|d:\\route\\c#\\assignments\\solution\\assignmentlinq01\\assignmentlinq01\\data\\listgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B972DD79-4060-44E4-B383-76D425FBE5DB}|AssignmentLINQ01\\AssignmentLINQ01.csproj|solutionrelative:assignmentlinq01\\data\\listgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B972DD79-4060-44E4-B383-76D425FBE5DB}|AssignmentLINQ01\\AssignmentLINQ01.csproj|d:\\route\\c#\\assignments\\solution\\assignmentlinq01\\assignmentlinq01\\data\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B972DD79-4060-44E4-B383-76D425FBE5DB}|AssignmentLINQ01\\AssignmentLINQ01.csproj|solutionrelative:assignmentlinq01\\data\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Route\\C#\\Assignments\\Solution\\AssignmentLINQ01\\AssignmentLINQ01\\Data\\Product.cs",
+              "RelativeDocumentMoniker": "AssignmentLINQ01\\Data\\Product.cs",
+              "ToolTip": "D:\\Route\\C#\\Assignments\\Solution\\AssignmentLINQ01\\AssignmentLINQ01\\Data\\Product.cs",
+              "RelativeToolTip": "AssignmentLINQ01\\Data\\Product.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T15:40:15.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Route\\C#\\Assignments\\Solution\\AssignmentLINQ01\\AssignmentLINQ01\\Data\\Order.cs",
+              "RelativeDocumentMoniker": "AssignmentLINQ01\\Data\\Order.cs",
+              "ToolTip": "D:\\Route\\C#\\Assignments\\Solution\\AssignmentLINQ01\\AssignmentLINQ01\\Data\\Order.cs",
+              "RelativeToolTip": "AssignmentLINQ01\\Data\\Order.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBoAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T15:40:00.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Route\\C#\\Assignments\\Solution\\AssignmentLINQ01\\AssignmentLINQ01\\Data\\Customer.cs",
+              "RelativeDocumentMoniker": "AssignmentLINQ01\\Data\\Customer.cs",
+              "ToolTip": "D:\\Route\\C#\\Assignments\\Solution\\AssignmentLINQ01\\AssignmentLINQ01\\Data\\Customer.cs",
+              "RelativeToolTip": "AssignmentLINQ01\\Data\\Customer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwB8AAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T15:39:49.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListGenerator.cs",
+              "DocumentMoniker": "D:\\Route\\C#\\Assignments\\Solution\\AssignmentLINQ01\\AssignmentLINQ01\\Data\\ListGenerator.cs",
+              "RelativeDocumentMoniker": "AssignmentLINQ01\\Data\\ListGenerator.cs",
+              "ToolTip": "D:\\Route\\C#\\Assignments\\Solution\\AssignmentLINQ01\\AssignmentLINQ01\\Data\\ListGenerator.cs",
+              "RelativeToolTip": "AssignmentLINQ01\\Data\\ListGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T15:39:33.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Route\\C#\\Assignments\\Solution\\AssignmentLINQ01\\AssignmentLINQ01\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentLINQ01\\Program.cs",
+              "ToolTip": "D:\\Route\\C#\\Assignments\\Solution\\AssignmentLINQ01\\AssignmentLINQ01\\Program.cs*",
+              "RelativeToolTip": "AssignmentLINQ01\\Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwKMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T15:37:47.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
