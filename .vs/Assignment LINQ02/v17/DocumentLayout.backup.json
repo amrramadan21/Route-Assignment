@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Route\\C#\\Assignments\\Solution\\Assignment LINQ02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7911F776-8FA2-4B28-A0A9-CCF97004B2A3}|Assignment LINQ02\\Assignment LINQ02.csproj|d:\\route\\c#\\assignments\\solution\\assignment linq02\\assignment linq02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7911F776-8FA2-4B28-A0A9-CCF97004B2A3}|Assignment LINQ02\\Assignment LINQ02.csproj|solutionrelative:assignment linq02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7911F776-8FA2-4B28-A0A9-CCF97004B2A3}|Assignment LINQ02\\Assignment LINQ02.csproj|d:\\route\\c#\\assignments\\solution\\assignment linq02\\assignment linq02\\data\\listgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7911F776-8FA2-4B28-A0A9-CCF97004B2A3}|Assignment LINQ02\\Assignment LINQ02.csproj|solutionrelative:assignment linq02\\data\\listgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7911F776-8FA2-4B28-A0A9-CCF97004B2A3}|Assignment LINQ02\\Assignment LINQ02.csproj|d:\\route\\c#\\assignments\\solution\\assignment linq02\\assignment linq02\\data\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7911F776-8FA2-4B28-A0A9-CCF97004B2A3}|Assignment LINQ02\\Assignment LINQ02.csproj|solutionrelative:assignment linq02\\data\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7911F776-8FA2-4B28-A0A9-CCF97004B2A3}|Assignment LINQ02\\Assignment LINQ02.csproj|d:\\route\\c#\\assignments\\solution\\assignment linq02\\assignment linq02\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7911F776-8FA2-4B28-A0A9-CCF97004B2A3}|Assignment LINQ02\\Assignment LINQ02.csproj|solutionrelative:assignment linq02\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7911F776-8FA2-4B28-A0A9-CCF97004B2A3}|Assignment LINQ02\\Assignment LINQ02.csproj|d:\\route\\c#\\assignments\\solution\\assignment linq02\\assignment linq02\\data\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7911F776-8FA2-4B28-A0A9-CCF97004B2A3}|Assignment LINQ02\\Assignment LINQ02.csproj|solutionrelative:assignment linq02\\data\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7911F776-8FA2-4B28-A0A9-CCF97004B2A3}|Assignment LINQ02\\Assignment LINQ02.csproj|d:\\route\\c#\\assignments\\solution\\assignment linq02\\assignment linq02\\matchstringcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7911F776-8FA2-4B28-A0A9-CCF97004B2A3}|Assignment LINQ02\\Assignment LINQ02.csproj|solutionrelative:assignment linq02\\matchstringcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MatchStringComparer.cs",
+              "DocumentMoniker": "D:\\Route\\C#\\Assignments\\Solution\\Assignment LINQ02\\Assignment LINQ02\\MatchStringComparer.cs",
+              "RelativeDocumentMoniker": "Assignment LINQ02\\MatchStringComparer.cs",
+              "ToolTip": "D:\\Route\\C#\\Assignments\\Solution\\Assignment LINQ02\\Assignment LINQ02\\MatchStringComparer.cs",
+              "RelativeToolTip": "Assignment LINQ02\\MatchStringComparer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:05:23.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Route\\C#\\Assignments\\Solution\\Assignment LINQ02\\Assignment LINQ02\\Data\\Customer.cs",
+              "RelativeDocumentMoniker": "Assignment LINQ02\\Data\\Customer.cs",
+              "ToolTip": "D:\\Route\\C#\\Assignments\\Solution\\Assignment LINQ02\\Assignment LINQ02\\Data\\Customer.cs",
+              "RelativeToolTip": "Assignment LINQ02\\Data\\Customer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T19:36:11.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Route\\C#\\Assignments\\Solution\\Assignment LINQ02\\Assignment LINQ02\\Data\\Product.cs",
+              "RelativeDocumentMoniker": "Assignment LINQ02\\Data\\Product.cs",
+              "ToolTip": "D:\\Route\\C#\\Assignments\\Solution\\Assignment LINQ02\\Assignment LINQ02\\Data\\Product.cs",
+              "RelativeToolTip": "Assignment LINQ02\\Data\\Product.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T19:34:55.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Route\\C#\\Assignments\\Solution\\Assignment LINQ02\\Assignment LINQ02\\Data\\Order.cs",
+              "RelativeDocumentMoniker": "Assignment LINQ02\\Data\\Order.cs",
+              "ToolTip": "D:\\Route\\C#\\Assignments\\Solution\\Assignment LINQ02\\Assignment LINQ02\\Data\\Order.cs",
+              "RelativeToolTip": "Assignment LINQ02\\Data\\Order.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA+wAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T19:34:53.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListGenerator.cs",
+              "DocumentMoniker": "D:\\Route\\C#\\Assignments\\Solution\\Assignment LINQ02\\Assignment LINQ02\\Data\\ListGenerator.cs",
+              "RelativeDocumentMoniker": "Assignment LINQ02\\Data\\ListGenerator.cs",
+              "ToolTip": "D:\\Route\\C#\\Assignments\\Solution\\Assignment LINQ02\\Assignment LINQ02\\Data\\ListGenerator.cs",
+              "RelativeToolTip": "Assignment LINQ02\\Data\\ListGenerator.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAgwHIAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T19:34:51.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Route\\C#\\Assignments\\Solution\\Assignment LINQ02\\Assignment LINQ02\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment LINQ02\\Program.cs",
+              "ToolTip": "D:\\Route\\C#\\Assignments\\Solution\\Assignment LINQ02\\Assignment LINQ02\\Program.cs*",
+              "RelativeToolTip": "Assignment LINQ02\\Program.cs*",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAwwLEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T19:30:25.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
