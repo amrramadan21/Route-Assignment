@@ -1,0 +1,16 @@
+D:\Route\MVC\Demo\DemoSolution\Demo.BLL\bin\Debug\net8.0\Demo.BLL.deps.json
+D:\Route\MVC\Demo\DemoSolution\Demo.BLL\bin\Debug\net8.0\Demo.BLL.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.BLL\bin\Debug\net8.0\Demo.BLL.pdb
+D:\Route\MVC\Demo\DemoSolution\Demo.BLL\bin\Debug\net8.0\Demo.DAL.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.BLL\bin\Debug\net8.0\Demo.DAL.pdb
+D:\Route\MVC\Demo\DemoSolution\Demo.BLL\obj\Debug\net8.0\Demo.BLL.csproj.AssemblyReference.cache
+D:\Route\MVC\Demo\DemoSolution\Demo.BLL\obj\Debug\net8.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\MVC\Demo\DemoSolution\Demo.BLL\obj\Debug\net8.0\Demo.BLL.AssemblyInfoInputs.cache
+D:\Route\MVC\Demo\DemoSolution\Demo.BLL\obj\Debug\net8.0\Demo.BLL.AssemblyInfo.cs
+D:\Route\MVC\Demo\DemoSolution\Demo.BLL\obj\Debug\net8.0\Demo.BLL.csproj.CoreCompileInputs.cache
+D:\Route\MVC\Demo\DemoSolution\Demo.BLL\obj\Debug\net8.0\Demo.BLL.sourcelink.json
+D:\Route\MVC\Demo\DemoSolution\Demo.BLL\obj\Debug\net8.0\Demo.BLL.csproj.Up2Date
+D:\Route\MVC\Demo\DemoSolution\Demo.BLL\obj\Debug\net8.0\Demo.BLL.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.BLL\obj\Debug\net8.0\refint\Demo.BLL.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.BLL\obj\Debug\net8.0\Demo.BLL.pdb
+D:\Route\MVC\Demo\DemoSolution\Demo.BLL\obj\Debug\net8.0\ref\Demo.BLL.dll

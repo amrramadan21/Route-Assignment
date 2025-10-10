@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "D:\\Route\\MVC\\Demo\\DemoSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C96C76FA-DC57-48C8-8DC6-A4EB96A5437B}|Demo.BLL\\Demo.BLL.csproj|d:\\route\\mvc\\demo\\demosolution\\demo.bll\\demo.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C96C76FA-DC57-48C8-8DC6-A4EB96A5437B}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\demo.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|d:\\route\\mvc\\demo\\demosolution\\demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|d:\\route\\mvc\\demo\\demosolution\\demo.dal\\data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C96C76FA-DC57-48C8-8DC6-A4EB96A5437B}|Demo.BLL\\Demo.BLL.csproj|d:\\route\\mvc\\demo\\demosolution\\demo.bll\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96C76FA-DC57-48C8-8DC6-A4EB96A5437B}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96C76FA-DC57-48C8-8DC6-A4EB96A5437B}|Demo.BLL\\Demo.BLL.csproj|d:\\route\\mvc\\demo\\demosolution\\demo.bll\\factories\\departmentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96C76FA-DC57-48C8-8DC6-A4EB96A5437B}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\factories\\departmentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96C76FA-DC57-48C8-8DC6-A4EB96A5437B}|Demo.BLL\\Demo.BLL.csproj|d:\\route\\mvc\\demo\\demosolution\\demo.bll\\dtos\\departmentdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96C76FA-DC57-48C8-8DC6-A4EB96A5437B}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\dtos\\departmentdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96C76FA-DC57-48C8-8DC6-A4EB96A5437B}|Demo.BLL\\Demo.BLL.csproj|d:\\route\\mvc\\demo\\demosolution\\demo.bll\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96C76FA-DC57-48C8-8DC6-A4EB96A5437B}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|d:\\route\\mvc\\demo\\demosolution\\demo.dal\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|d:\\route\\mvc\\demo\\demosolution\\demo.dal\\data\\configurations\\departmentcnfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\configurations\\departmentcnfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|d:\\route\\mvc\\demo\\demosolution\\demo.dal\\data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|d:\\route\\mvc\\demo\\demosolution\\demo.dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|d:\\route\\mvc\\demo\\demosolution\\demo.dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|d:\\route\\mvc\\demo\\demosolution\\demo.dal\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|d:\\route\\mvc\\demo\\demosolution\\demo.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -62,11 +82,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "DepartmentFactory.cs",
+              "DocumentMoniker": "D:\\Route\\MVC\\Demo\\DemoSolution\\Demo.BLL\\Factories\\DepartmentFactory.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Factories\\DepartmentFactory.cs",
+              "ToolTip": "D:\\Route\\MVC\\Demo\\DemoSolution\\Demo.BLL\\Factories\\DepartmentFactory.cs",
+              "RelativeToolTip": "Demo.BLL\\Factories\\DepartmentFactory.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA9wAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T15:57:08.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentDetailsDto.cs",
+              "DocumentMoniker": "D:\\Route\\MVC\\Demo\\DemoSolution\\Demo.BLL\\DTOs\\DepartmentDetailsDto.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\DTOs\\DepartmentDetailsDto.cs",
+              "ToolTip": "D:\\Route\\MVC\\Demo\\DemoSolution\\Demo.BLL\\DTOs\\DepartmentDetailsDto.cs",
+              "RelativeToolTip": "Demo.BLL\\DTOs\\DepartmentDetailsDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T15:15:15.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentDto.cs",
+              "DocumentMoniker": "D:\\Route\\MVC\\Demo\\DemoSolution\\Demo.BLL\\DTOs\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\DTOs\\DepartmentDto.cs",
+              "ToolTip": "D:\\Route\\MVC\\Demo\\DemoSolution\\Demo.BLL\\DTOs\\DepartmentDto.cs",
+              "RelativeToolTip": "Demo.BLL\\DTOs\\DepartmentDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T15:06:05.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Demo.BLL.csproj",
+              "DocumentMoniker": "D:\\Route\\MVC\\Demo\\DemoSolution\\Demo.BLL\\Demo.BLL.csproj",
+              "RelativeDocumentMoniker": "Demo.BLL\\Demo.BLL.csproj",
+              "ToolTip": "D:\\Route\\MVC\\Demo\\DemoSolution\\Demo.BLL\\Demo.BLL.csproj",
+              "RelativeToolTip": "Demo.BLL\\Demo.BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-09T15:05:03.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "D:\\Route\\MVC\\Demo\\DemoSolution\\Demo.BLL\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\DepartmentService.cs",
+              "ToolTip": "D:\\Route\\MVC\\Demo\\DemoSolution\\Demo.BLL\\DepartmentService.cs",
+              "RelativeToolTip": "Demo.BLL\\DepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T14:55:09.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Route\\MVC\\Demo\\DemoSolution\\Demo.Pl\\appsettings.json",
               "RelativeDocumentMoniker": "Demo.Pl\\appsettings.json",
@@ -74,12 +156,11 @@
               "RelativeToolTip": "Demo.Pl\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-09T13:40:43.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T13:40:43.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Route\\MVC\\Demo\\DemoSolution\\Demo.Pl\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Demo.Pl\\Controllers\\HomeController.cs",
@@ -87,25 +168,23 @@
               "RelativeToolTip": "Demo.Pl\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T13:37:36.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T13:37:36.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DepartmentRepository.cs",
               "DocumentMoniker": "D:\\Route\\MVC\\Demo\\DemoSolution\\Demo.DAL\\Repositories\\DepartmentRepository.cs",
               "RelativeDocumentMoniker": "Demo.DAL\\Repositories\\DepartmentRepository.cs",
               "ToolTip": "D:\\Route\\MVC\\Demo\\DemoSolution\\Demo.DAL\\Repositories\\DepartmentRepository.cs",
               "RelativeToolTip": "Demo.DAL\\Repositories\\DepartmentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T13:05:08.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T13:05:08.272Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Route\\MVC\\Demo\\DemoSolution\\Demo.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Demo.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
@@ -113,12 +192,11 @@
               "RelativeToolTip": "Demo.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T12:53:51.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T12:53:51.894Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "D:\\Route\\MVC\\Demo\\DemoSolution\\Demo.DAL\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "Demo.DAL\\GlobalUsings.cs",
@@ -126,12 +204,11 @@
               "RelativeToolTip": "Demo.DAL\\GlobalUsings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T12:50:34.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T12:50:34.829Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "DepartmentCnfiguration.cs",
               "DocumentMoniker": "D:\\Route\\MVC\\Demo\\DemoSolution\\Demo.DAL\\Data\\Configurations\\DepartmentCnfiguration.cs",
               "RelativeDocumentMoniker": "Demo.DAL\\Data\\Configurations\\DepartmentCnfiguration.cs",
@@ -139,13 +216,12 @@
               "RelativeToolTip": "Demo.DAL\\Data\\Configurations\\DepartmentCnfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T12:39:26.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T12:39:26.891Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Demo.DAL",
+              "DocumentIndex": 17,
+              "Title": "Demo.DAL.csproj",
               "DocumentMoniker": "D:\\Route\\MVC\\Demo\\DemoSolution\\Demo.DAL\\Demo.DAL.csproj",
               "RelativeDocumentMoniker": "Demo.DAL\\Demo.DAL.csproj",
               "ToolTip": "D:\\Route\\MVC\\Demo\\DemoSolution\\Demo.DAL\\Demo.DAL.csproj",
@@ -157,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "D:\\Route\\MVC\\Demo\\DemoSolution\\Demo.DAL\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Demo.DAL\\Models\\BaseEntity.cs",
@@ -165,12 +241,11 @@
               "RelativeToolTip": "Demo.DAL\\Models\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T12:30:50.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T12:30:50.559Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Department.cs",
               "DocumentMoniker": "D:\\Route\\MVC\\Demo\\DemoSolution\\Demo.DAL\\Models\\Department.cs",
               "RelativeDocumentMoniker": "Demo.DAL\\Models\\Department.cs",
@@ -178,12 +253,11 @@
               "RelativeToolTip": "Demo.DAL\\Models\\Department.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T12:30:35.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T12:30:35.621Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\Route\\MVC\\Demo\\DemoSolution\\Demo.Pl\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Demo.Pl\\Views\\_ViewImports.cshtml",
@@ -191,12 +265,11 @@
               "RelativeToolTip": "Demo.Pl\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-09T12:07:51.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T12:07:51.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\Route\\MVC\\Demo\\DemoSolution\\Demo.Pl\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Demo.Pl\\_ViewImports.cshtml",
@@ -204,12 +277,11 @@
               "RelativeToolTip": "Demo.Pl\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-09T12:08:52.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T12:08:52.225Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\Route\\MVC\\Demo\\DemoSolution\\Demo.Pl\\ViewModels\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Demo.Pl\\ViewModels\\ErrorViewModel.cs",
@@ -217,18 +289,17 @@
               "RelativeToolTip": "Demo.Pl\\ViewModels\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T12:07:29.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T12:07:29.218Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Route\\MVC\\Demo\\DemoSolution\\Demo.Pl\\Program.cs",
               "RelativeDocumentMoniker": "Demo.Pl\\Program.cs",
               "ToolTip": "D:\\Route\\MVC\\Demo\\DemoSolution\\Demo.Pl\\Program.cs",
               "RelativeToolTip": "Demo.Pl\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBQAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-09T12:05:27.812Z",
               "EditorCaption": ""
