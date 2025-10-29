@@ -149,3 +149,4 @@ D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\refint\Demo.Pl.dll
 D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\Demo.Pl.pdb
 D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\Demo.Pl.genruntimeconfig.cache
 D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\ref\Demo.Pl.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\AutoMapper.dll

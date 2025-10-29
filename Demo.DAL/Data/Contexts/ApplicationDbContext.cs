@@ -1,4 +1,6 @@
 ﻿using Demo.DAL.Data.Configurations;
+using Demo.DAL.Models.DepartmentModel;
+using Demo.DAL.Models.EmployeeModel;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,8 +25,12 @@ namespace Demo.DAL.Data.Contexts
             modelBuilder.ApplyConfiguration<Department>(new DepartmentCnfiguration());
             //modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
             //modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
+            modelBuilder.ApplyConfiguration(new EmployeeConfiguration());
+            base.OnModelCreating(modelBuilder);
         }
 
-        public DbSet<Department> Departments { get; set; } 
+        public DbSet<Department> Departments { get; set; }
+        public DbSet<Employee> Employees { get; set; }
+
     }
 }
