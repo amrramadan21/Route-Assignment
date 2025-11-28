@@ -3,12 +3,92 @@
   "WorkspaceRootPath": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C96C76FA-DC57-48C8-8DC6-A4EB96A5437B}|Demo.BLL\\Demo.BLL.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.bll\\demo.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C96C76FA-DC57-48C8-8DC6-A4EB96A5437B}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\demo.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.pl\\views\\account\\resetpasswordlink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\views\\account\\resetpasswordlink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.pl\\viewmodels\\identityviewmodels\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\viewmodels\\identityviewmodels\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.pl\\utilities\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\utilities\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.pl\\views\\account\\checkyourinbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\views\\account\\checkyourinbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.pl\\views\\account\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\views\\account\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.pl\\utilities\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\utilities\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.pl\\viewmodels\\identityviewmodels\\forgetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\viewmodels\\identityviewmodels\\forgetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.pl\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.dal\\data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.dal\\data\\configurations\\departmentcnfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\configurations\\departmentcnfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.pl\\viewmodels\\identityviewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\viewmodels\\identityviewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.pl\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.pl\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.pl\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.pl\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.pl\\wwwroot\\css\\authstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\wwwroot\\css\\authstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.pl\\viewmodels\\identityviewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\viewmodels\\identityviewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.dal\\models\\identitymodels\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\models\\identitymodels\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96C76FA-DC57-48C8-8DC6-A4EB96A5437B}|Demo.BLL\\Demo.BLL.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.bll\\demo.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C96C76FA-DC57-48C8-8DC6-A4EB96A5437B}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\demo.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.dal\\repositories\\classes\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,10 +171,6 @@
       "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.pl\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.pl\\viewmodels\\employeeviewmodels\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\viewmodels\\employeeviewmodels\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -103,16 +179,8 @@
       "RelativeMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\migrations\\20251127062523_employeedepartmentrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.dal\\data\\configurations\\departmentcnfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\configurations\\departmentcnfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.pl\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.pl\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.pl\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -135,8 +203,8 @@
       "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\views\\shared\\_buttonspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\mvc\\route-assignment\\demo.dal\\migrations\\20251128151548_addidentitytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\migrations\\20251128151548_addidentitytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -146,297 +214,151 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Demo.BLL",
-              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\Demo.BLL.csproj",
-              "RelativeDocumentMoniker": "Demo.BLL\\Demo.BLL.csproj",
-              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\Demo.BLL.csproj",
-              "RelativeToolTip": "Demo.BLL\\Demo.BLL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-28T13:40:03.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DepartmentService.cs",
-              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\Services\\Classes\\DepartmentService.cs",
-              "RelativeDocumentMoniker": "Demo.BLL\\Services\\Classes\\DepartmentService.cs",
-              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\Services\\Classes\\DepartmentService.cs",
-              "RelativeToolTip": "Demo.BLL\\Services\\Classes\\DepartmentService.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAA1wCgAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T11:16:37.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Repositories\\Classes\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\Repositories\\Classes\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Repositories\\Classes\\UnitOfWork.cs",
-              "RelativeToolTip": "Demo.DAL\\Repositories\\Classes\\UnitOfWork.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBwAAAAGAAAAAAAAAA==",
+              "Title": "ResetPasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\ViewModels\\IdentityViewModels\\ResetPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "Demo.Pl\\ViewModels\\IdentityViewModels\\ResetPasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\ViewModels\\IdentityViewModels\\ResetPasswordViewModel.cs",
+              "RelativeToolTip": "Demo.Pl\\ViewModels\\IdentityViewModels\\ResetPasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T11:00:51.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Repositories\\Interfaces\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\Repositories\\Interfaces\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Repositories\\Interfaces\\IUnitOfWork.cs",
-              "RelativeToolTip": "Demo.DAL\\Repositories\\Interfaces\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T10:57:54.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmployeesController.cs",
-              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Controllers\\EmployeesController.cs",
-              "RelativeDocumentMoniker": "Demo.Pl\\Controllers\\EmployeesController.cs",
-              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Controllers\\EmployeesController.cs",
-              "RelativeToolTip": "Demo.Pl\\Controllers\\EmployeesController.cs",
-              "ViewState": "AgIAAHsAAAAAAAAAAAA3wBIAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T06:47:15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\Services\\Classes\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "Demo.BLL\\Services\\Classes\\EmployeeService.cs",
-              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\Services\\Classes\\EmployeeService.cs",
-              "RelativeToolTip": "Demo.BLL\\Services\\Classes\\EmployeeService.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAkwFkAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T03:12:12.005Z",
+              "WhenOpened": "2025-11-28T22:42:00.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ResetPasswordLink.cshtml",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Account\\ResetPasswordLink.cshtml",
+              "RelativeDocumentMoniker": "Demo.Pl\\Views\\Account\\ResetPasswordLink.cshtml",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Account\\ResetPasswordLink.cshtml",
+              "RelativeToolTip": "Demo.Pl\\Views\\Account\\ResetPasswordLink.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T22:41:03.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckYourInbox.cshtml",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Account\\CheckYourInbox.cshtml",
+              "RelativeDocumentMoniker": "Demo.Pl\\Views\\Account\\CheckYourInbox.cshtml",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Account\\CheckYourInbox.cshtml",
+              "RelativeToolTip": "Demo.Pl\\Views\\Account\\CheckYourInbox.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T22:06:59.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Utilities\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "Demo.Pl\\Utilities\\EmailSettings.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Utilities\\EmailSettings.cs",
+              "RelativeToolTip": "Demo.Pl\\Utilities\\EmailSettings.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:00:18.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ForgetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Account\\ForgetPassword.cshtml",
+              "RelativeDocumentMoniker": "Demo.Pl\\Views\\Account\\ForgetPassword.cshtml",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Account\\ForgetPassword.cshtml",
+              "RelativeToolTip": "Demo.Pl\\Views\\Account\\ForgetPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T17:44:42.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Demo.Pl\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Demo.Pl\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:31:42.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ForgetPasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\ViewModels\\IdentityViewModels\\ForgetPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "Demo.Pl\\ViewModels\\IdentityViewModels\\ForgetPasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\ViewModels\\IdentityViewModels\\ForgetPasswordViewModel.cs",
+              "RelativeToolTip": "Demo.Pl\\ViewModels\\IdentityViewModels\\ForgetPasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T17:40:32.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Program.cs",
               "RelativeDocumentMoniker": "Demo.Pl\\Program.cs",
               "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Program.cs",
               "RelativeToolTip": "Demo.Pl\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAowDwAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T04:05:31.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "Demo.DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAEwBMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T00:33:34.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Employees\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Demo.Pl\\Views\\Employees\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Employees\\Edit.cshtml",
-              "RelativeToolTip": "Demo.Pl\\Views\\Employees\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T04:00:46.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Repositories\\Classes\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\Repositories\\Classes\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Repositories\\Classes\\GenericRepository.cs",
-              "RelativeToolTip": "Demo.DAL\\Repositories\\Classes\\GenericRepository.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAgwFEAAAAAAAAAAAAAAA==",
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Utilities\\Email.cs",
+              "RelativeDocumentMoniker": "Demo.Pl\\Utilities\\Email.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Utilities\\Email.cs",
+              "RelativeToolTip": "Demo.Pl\\Utilities\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T00:40:08.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IEmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\Services\\Interfaces\\IEmployeeService.cs",
-              "RelativeDocumentMoniker": "Demo.BLL\\Services\\Interfaces\\IEmployeeService.cs",
-              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\Services\\Interfaces\\IEmployeeService.cs",
-              "RelativeToolTip": "Demo.BLL\\Services\\Interfaces\\IEmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T02:00:53.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Employees\\Details.cshtml",
-              "RelativeDocumentMoniker": "Demo.Pl\\Views\\Employees\\Details.cshtml",
-              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Employees\\Details.cshtml",
-              "RelativeToolTip": "Demo.Pl\\Views\\Employees\\Details.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAUwCoAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-28T00:17:57.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MappingProfiles.cs",
-              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\MappingProfiles\\MappingProfiles.cs",
-              "RelativeDocumentMoniker": "Demo.BLL\\MappingProfiles\\MappingProfiles.cs",
-              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\MappingProfiles\\MappingProfiles.cs",
-              "RelativeToolTip": "Demo.BLL\\MappingProfiles\\MappingProfiles.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAmwB8AAACLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T00:21:52.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Models\\EmployeeModel\\Employee.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\Models\\EmployeeModel\\Employee.cs",
-              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Models\\EmployeeModel\\Employee.cs",
-              "RelativeToolTip": "Demo.DAL\\Models\\EmployeeModel\\Employee.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAowCQAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T06:19:37.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Models\\DepartmentModel\\Department.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\Models\\DepartmentModel\\Department.cs",
-              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Models\\DepartmentModel\\Department.cs",
-              "RelativeToolTip": "Demo.DAL\\Models\\DepartmentModel\\Department.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAIBJwBIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T06:17:56.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Employees\\Index.cshtml",
-              "RelativeDocumentMoniker": "Demo.Pl\\Views\\Employees\\Index.cshtml",
-              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Employees\\Index.cshtml",
-              "RelativeToolTip": "Demo.Pl\\Views\\Employees\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T04:12:32.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EmployeeDetailsDto.cs",
-              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\DTOs\\EmployeeDTOs\\EmployeeDetailsDto.cs",
-              "RelativeDocumentMoniker": "Demo.BLL\\DTOs\\EmployeeDTOs\\EmployeeDetailsDto.cs",
-              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\DTOs\\EmployeeDTOs\\EmployeeDetailsDto.cs",
-              "RelativeToolTip": "Demo.BLL\\DTOs\\EmployeeDTOs\\EmployeeDetailsDto.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAIwCgAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T00:33:10.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Demo.DAL.csproj",
-              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Demo.DAL.csproj",
-              "RelativeDocumentMoniker": "Demo.DAL\\Demo.DAL.csproj",
-              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Demo.DAL.csproj",
-              "RelativeToolTip": "Demo.DAL\\Demo.DAL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-28T00:28:33.273Z",
+              "WhenOpened": "2025-11-28T17:52:10.261Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "EmployeeDto.cs",
-              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\DTOs\\EmployeeDTOs\\EmployeeDto.cs",
-              "RelativeDocumentMoniker": "Demo.BLL\\DTOs\\EmployeeDTOs\\EmployeeDto.cs",
-              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\DTOs\\EmployeeDTOs\\EmployeeDto.cs",
-              "RelativeToolTip": "Demo.BLL\\DTOs\\EmployeeDTOs\\EmployeeDto.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAIA6wBwAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T00:20:12.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CreateEditEmployeePartialView.cshtml",
-              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Employees\\PartialViews\\CreateEditEmployeePartialView.cshtml",
-              "RelativeDocumentMoniker": "Demo.Pl\\Views\\Employees\\PartialViews\\CreateEditEmployeePartialView.cshtml",
-              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Employees\\PartialViews\\CreateEditEmployeePartialView.cshtml",
-              "RelativeToolTip": "Demo.Pl\\Views\\Employees\\PartialViews\\CreateEditEmployeePartialView.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAIBJwAUAAABuAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Departments\\Create.cshtml",
+              "RelativeDocumentMoniker": "Demo.Pl\\Views\\Departments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Departments\\Create.cshtml",
+              "RelativeToolTip": "Demo.Pl\\Views\\Departments\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T06:35:17.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T03:47:30.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Demo.Pl\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Demo.Pl\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Demo.Pl\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Demo.Pl\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T05:42:38.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T03:55:59.315Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CreateEmployeeDtos.cs",
-              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\DTOs\\EmployeeDTOs\\CreateEmployeeDtos.cs",
-              "RelativeDocumentMoniker": "Demo.BLL\\DTOs\\EmployeeDTOs\\CreateEmployeeDtos.cs",
-              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\DTOs\\EmployeeDTOs\\CreateEmployeeDtos.cs",
-              "RelativeToolTip": "Demo.BLL\\DTOs\\EmployeeDTOs\\CreateEmployeeDtos.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAcwBkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T06:31:11.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 16,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Employees\\Create.cshtml",
               "RelativeDocumentMoniker": "Demo.Pl\\Views\\Employees\\Create.cshtml",
@@ -444,12 +366,383 @@
               "RelativeToolTip": "Demo.Pl\\Views\\Employees\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T06:35:28.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T06:35:28.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "authStyle.css",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\wwwroot\\css\\authStyle.css",
+              "RelativeDocumentMoniker": "Demo.Pl\\wwwroot\\css\\authStyle.css",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\wwwroot\\css\\authStyle.css",
+              "RelativeToolTip": "Demo.Pl\\wwwroot\\css\\authStyle.css",
+              "ViewState": "AgIAAH0CAAAAAAAAAAAuwPsCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-28T15:47:09.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Demo.Pl\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Demo.Pl\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T16:40:54.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "Demo.Pl\\Views\\Shared\\_AuthLayout.cshtml",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeToolTip": "Demo.Pl\\Views\\Shared\\_AuthLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T15:20:21.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Demo.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:02:53.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepartmentCnfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Data\\Configurations\\DepartmentCnfiguration.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Configurations\\DepartmentCnfiguration.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Data\\Configurations\\DepartmentCnfiguration.cs",
+              "RelativeToolTip": "Demo.DAL\\Data\\Configurations\\DepartmentCnfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T06:20:34.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LogInViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\ViewModels\\IdentityViewModels\\LogInViewModel.cs",
+              "RelativeDocumentMoniker": "Demo.Pl\\ViewModels\\IdentityViewModels\\LogInViewModel.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\ViewModels\\IdentityViewModels\\LogInViewModel.cs",
+              "RelativeToolTip": "Demo.Pl\\ViewModels\\IdentityViewModels\\LogInViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T16:25:27.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20251128151548_AddIdentityTable.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Migrations\\20251128151548_AddIdentityTable.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Migrations\\20251128151548_AddIdentityTable.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Migrations\\20251128151548_AddIdentityTable.cs",
+              "RelativeToolTip": "Demo.DAL\\Migrations\\20251128151548_AddIdentityTable.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:15:48.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Demo.Pl\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Demo.Pl\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T15:33:11.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\ViewModels\\IdentityViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Demo.Pl\\ViewModels\\IdentityViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\ViewModels\\IdentityViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "Demo.Pl\\ViewModels\\IdentityViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:36:12.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Models\\IdentityModels\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Models\\IdentityModels\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Models\\IdentityModels\\ApplicationUser.cs",
+              "RelativeToolTip": "Demo.DAL\\Models\\IdentityModels\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:08:36.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Demo.BLL.csproj",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\Demo.BLL.csproj",
+              "RelativeDocumentMoniker": "Demo.BLL\\Demo.BLL.csproj",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\Demo.BLL.csproj",
+              "RelativeToolTip": "Demo.BLL\\Demo.BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-28T13:40:03.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\Services\\Classes\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Services\\Classes\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\Services\\Classes\\DepartmentService.cs",
+              "RelativeToolTip": "Demo.BLL\\Services\\Classes\\DepartmentService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T11:16:37.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Repositories\\Classes\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Repositories\\Classes\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Repositories\\Classes\\UnitOfWork.cs",
+              "RelativeToolTip": "Demo.DAL\\Repositories\\Classes\\UnitOfWork.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T11:00:51.184Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Repositories\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Repositories\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Repositories\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Demo.DAL\\Repositories\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T10:57:54.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Demo.Pl\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Demo.Pl\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAYwBIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T06:47:15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\Services\\Classes\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Services\\Classes\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\Services\\Classes\\EmployeeService.cs",
+              "RelativeToolTip": "Demo.BLL\\Services\\Classes\\EmployeeService.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAkwFkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T03:12:12.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Demo.DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAEwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:33:34.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Demo.Pl\\Views\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "Demo.Pl\\Views\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T04:00:46.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Repositories\\Classes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Repositories\\Classes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Repositories\\Classes\\GenericRepository.cs",
+              "RelativeToolTip": "Demo.DAL\\Repositories\\Classes\\GenericRepository.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:40:08.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\Services\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Services\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\Services\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "Demo.BLL\\Services\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T02:00:53.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "Demo.Pl\\Views\\Employees\\Details.cshtml",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Employees\\Details.cshtml",
+              "RelativeToolTip": "Demo.Pl\\Views\\Employees\\Details.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwCoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T00:17:57.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\MappingProfiles\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\MappingProfiles\\MappingProfiles.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\MappingProfiles\\MappingProfiles.cs",
+              "RelativeToolTip": "Demo.BLL\\MappingProfiles\\MappingProfiles.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwB8AAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T00:21:52.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Models\\EmployeeModel\\Employee.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Models\\EmployeeModel\\Employee.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Models\\EmployeeModel\\Employee.cs",
+              "RelativeToolTip": "Demo.DAL\\Models\\EmployeeModel\\Employee.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowCQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T06:19:37.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Models\\DepartmentModel\\Department.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Models\\DepartmentModel\\Department.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Models\\DepartmentModel\\Department.cs",
+              "RelativeToolTip": "Demo.DAL\\Models\\DepartmentModel\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABRwBIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T06:17:56.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo.Pl\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Demo.Pl\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T04:12:32.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EmployeeDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\DTOs\\EmployeeDTOs\\EmployeeDetailsDto.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\DTOs\\EmployeeDTOs\\EmployeeDetailsDto.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\DTOs\\EmployeeDTOs\\EmployeeDetailsDto.cs",
+              "RelativeToolTip": "Demo.BLL\\DTOs\\EmployeeDTOs\\EmployeeDetailsDto.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwCgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T00:33:10.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Demo.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Demo.DAL.csproj",
+              "RelativeDocumentMoniker": "Demo.DAL\\Demo.DAL.csproj",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Demo.DAL.csproj",
+              "RelativeToolTip": "Demo.DAL\\Demo.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-28T00:28:33.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\DTOs\\EmployeeDTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\DTOs\\EmployeeDTOs\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\DTOs\\EmployeeDTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "Demo.BLL\\DTOs\\EmployeeDTOs\\EmployeeDto.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAjwBwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T00:20:12.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CreateEditEmployeePartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Employees\\PartialViews\\CreateEditEmployeePartialView.cshtml",
+              "RelativeDocumentMoniker": "Demo.Pl\\Views\\Employees\\PartialViews\\CreateEditEmployeePartialView.cshtml",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Employees\\PartialViews\\CreateEditEmployeePartialView.cshtml",
+              "RelativeToolTip": "Demo.Pl\\Views\\Employees\\PartialViews\\CreateEditEmployeePartialView.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAIBZwAUAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T06:35:17.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Demo.Pl\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Demo.Pl\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T05:42:38.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CreateEmployeeDtos.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\DTOs\\EmployeeDTOs\\CreateEmployeeDtos.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\DTOs\\EmployeeDTOs\\CreateEmployeeDtos.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.BLL\\DTOs\\EmployeeDTOs\\CreateEmployeeDtos.cs",
+              "RelativeToolTip": "Demo.BLL\\DTOs\\EmployeeDTOs\\CreateEmployeeDtos.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwBkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T06:31:11.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
               "Title": "20251127062523_EmployeeDepartmentRelationship.cs",
               "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Migrations\\20251127062523_EmployeeDepartmentRelationship.cs",
               "RelativeDocumentMoniker": "Demo.DAL\\Migrations\\20251127062523_EmployeeDepartmentRelationship.cs",
@@ -457,12 +750,11 @@
               "RelativeToolTip": "Demo.DAL\\Migrations\\20251127062523_EmployeeDepartmentRelationship.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T06:25:24.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T06:25:24.001Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 42,
               "Title": "EmployeeViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\ViewModels\\EmployeeViewModels\\EmployeeViewModel.cs",
               "RelativeDocumentMoniker": "Demo.Pl\\ViewModels\\EmployeeViewModels\\EmployeeViewModel.cs",
@@ -470,25 +762,11 @@
               "RelativeToolTip": "Demo.Pl\\ViewModels\\EmployeeViewModels\\EmployeeViewModel.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAqwCMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T06:41:44.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T06:41:44.472Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "DepartmentCnfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Data\\Configurations\\DepartmentCnfiguration.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Configurations\\DepartmentCnfiguration.cs",
-              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.DAL\\Data\\Configurations\\DepartmentCnfiguration.cs",
-              "RelativeToolTip": "Demo.DAL\\Data\\Configurations\\DepartmentCnfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T06:20:34.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 46,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Departments\\Edit.cshtml",
               "RelativeDocumentMoniker": "Demo.Pl\\Views\\Departments\\Edit.cshtml",
@@ -496,12 +774,11 @@
               "RelativeToolTip": "Demo.Pl\\Views\\Departments\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T05:40:43.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T05:40:43.505Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 47,
               "Title": "CreateEditPartialView.cshtml",
               "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Departments\\PartialViews\\CreateEditPartialView.cshtml",
               "RelativeDocumentMoniker": "Demo.Pl\\Views\\Departments\\PartialViews\\CreateEditPartialView.cshtml",
@@ -509,12 +786,11 @@
               "RelativeToolTip": "Demo.Pl\\Views\\Departments\\PartialViews\\CreateEditPartialView.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T05:38:55.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T05:38:55.452Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 44,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Departments\\Index.cshtml",
               "RelativeDocumentMoniker": "Demo.Pl\\Views\\Departments\\Index.cshtml",
@@ -522,25 +798,11 @@
               "RelativeToolTip": "Demo.Pl\\Views\\Departments\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T04:10:55.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T04:10:55.49Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Departments\\Create.cshtml",
-              "RelativeDocumentMoniker": "Demo.Pl\\Views\\Departments\\Create.cshtml",
-              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Departments\\Create.cshtml",
-              "RelativeToolTip": "Demo.Pl\\Views\\Departments\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T03:47:30.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 45,
               "Title": "DepartmentsController.cs",
               "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Controllers\\DepartmentsController.cs",
               "RelativeDocumentMoniker": "Demo.Pl\\Controllers\\DepartmentsController.cs",
@@ -548,12 +810,11 @@
               "RelativeToolTip": "Demo.Pl\\Controllers\\DepartmentsController.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAgwDkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T03:47:12.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T03:47:12.788Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 48,
               "Title": "DepartmentViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\ViewModels\\DepartmentViewModels\\DepartmentViewModel.cs",
               "RelativeDocumentMoniker": "Demo.Pl\\ViewModels\\DepartmentViewModels\\DepartmentViewModel.cs",
@@ -561,25 +822,11 @@
               "RelativeToolTip": "Demo.Pl\\ViewModels\\DepartmentViewModels\\DepartmentViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T05:46:01.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T05:46:01.925Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Demo.Pl\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Demo.Pl\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAIBZwDcAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T03:55:59.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 49,
               "Title": "_ButtonsPartialView.cshtml",
               "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\MVC\\Route-Assignment\\Demo.Pl\\Views\\Shared\\_ButtonsPartialView.cshtml",
               "RelativeDocumentMoniker": "Demo.Pl\\Views\\Shared\\_ButtonsPartialView.cshtml",
@@ -587,8 +834,7 @@
               "RelativeToolTip": "Demo.Pl\\Views\\Shared\\_ButtonsPartialView.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T04:16:26.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T04:16:26.328Z"
             }
           ]
         }

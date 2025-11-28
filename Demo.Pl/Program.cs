@@ -2,8 +2,10 @@ using Demo.BLL.MappingProfiles;
 using Demo.BLL.Services.Classes;
 using Demo.BLL.Services.Interfaces;
 using Demo.DAL.Data.Contexts;
+using Demo.DAL.Models.IdentityModels;
 using Demo.DAL.Repositories.Classes;
 using Demo.DAL.Repositories.Interfaces;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -47,7 +49,16 @@ namespace Demo.Pl
             //builder.Services.AddAutoMapper(typeof(MappingProfiles))
             builder.Services.AddAutoMapper(M => M.AddProfile(new MappingProfiles()));
 
-
+            builder.Services.AddIdentity<ApplicationUser, IdentityRole>(options =>
+            {
+                //options.Password.RequireDigit = true;
+                //options.Password.RequireLowercase = true;
+                //options.Password.RequireUppercase = true;
+                //options.Password.RequireNonAlphanumeric = false;
+                //options.Password.RequiredLength = 6;
+                //options.User.RequireUniqueEmail = true;
+            })
+                   .AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders();
 
             #endregion
 
@@ -69,7 +80,7 @@ namespace Demo.Pl
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=Account}/{action=Register}/{id?}");
 
             app.Run();
         }
