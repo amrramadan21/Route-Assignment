@@ -20,6 +20,7 @@ namespace Demo.Pl.Controllers
         }
 
         #region Create Department
+
         [HttpGet]
         public IActionResult Create() 
         {
@@ -27,39 +28,53 @@ namespace Demo.Pl.Controllers
         }
 
         [HttpPost]
+        [ValidateAntiForgeryToken]
 
-        public IActionResult Create(CreatedDepartmentDto departmentDto) 
+        public IActionResult Create(DepartmentViewModel departmentModel) 
         {
             if (ModelState.IsValid)
             {
                 try
                 {
+
+                    var departmentDto = new CreatedDepartmentDto()
+                    {
+           
+                        Code = departmentModel.Code,
+                        name = departmentModel.name,
+                        Description = departmentModel.Description,
+                        DateOfCreation = departmentModel.DateOfCreation
+                    };
+
                     int res = departmentService.AddDepartment(departmentDto);
-                    if (res > 0) return RedirectToAction(nameof(Index));
+                    string msg;
+
+
+                    if (res > 0) msg = $"Department {departmentModel.name} Is Created Successfully";
                     else
                     {
-                        ModelState.AddModelError(string.Empty, "Departments Can't Be Added");
-                        return View(departmentDto);
+                        msg = $"Department {departmentModel.name} Can't be Created ";
                     }
+                    TempData["Message"]=msg;
+                    return RedirectToAction(nameof(Index));
                 }
                 catch (Exception ex) 
                 {
                     if (environment.IsDevelopment())
                     {
                         ModelState.AddModelError(string.Empty,ex.Message);
-                        return View(departmentDto);
+                        return View(departmentModel);
                     }
                     else
                     {
                         //logger.LogError(ex.Message);
-                        return View(departmentDto);
+                        return View(departmentModel);
                     }
                 }
             }
-            else return View(departmentDto);
+            else return View(departmentModel);
         }
         #endregion
-
 
         #region Show Details
         [HttpGet]
@@ -83,7 +98,7 @@ namespace Demo.Pl.Controllers
             var department = departmentService.GetById(id.Value);
             if (department is null) return NotFound();
 
-            var deptViewModel = new DepartmentEditViewModel()
+            var deptViewModel = new DepartmentViewModel()
             {
                 Id = id.Value,
                 name = department.Name,
@@ -96,7 +111,7 @@ namespace Demo.Pl.Controllers
         }
 
         [HttpPost]
-        public IActionResult Edit([FromRoute]int id ,DepartmentEditViewModel viewModel)
+        public IActionResult Edit([FromRoute]int id ,DepartmentViewModel viewModel)
         {
             if (!ModelState.IsValid) return View(viewModel);
             try

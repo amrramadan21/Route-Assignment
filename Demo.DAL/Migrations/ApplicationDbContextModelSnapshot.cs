@@ -76,6 +76,9 @@ namespace Demo.DAL.Migrations
                     b.Property<string>("Address")
                         .HasColumnType("varchar(150)");
 
+                    b.Property<int>("Age")
+                        .HasColumnType("int");
+
                     b.Property<int>("CreatedBy")
                         .HasColumnType("int");
 
@@ -83,6 +86,9 @@ namespace Demo.DAL.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("datetime2")
                         .HasDefaultValueSql("GETDATE()");
+
+                    b.Property<int?>("DepartmentId")
+                        .HasColumnType("int");
 
                     b.Property<string>("Email")
                         .HasColumnType("nvarchar(max)");
@@ -122,12 +128,26 @@ namespace Demo.DAL.Migrations
                     b.Property<decimal>("Salary")
                         .HasColumnType("decimal(10,2)");
 
-                    b.Property<int>("age")
-                        .HasColumnType("int");
-
                     b.HasKey("Id");
 
+                    b.HasIndex("DepartmentId");
+
                     b.ToTable("Employees");
+                });
+
+            modelBuilder.Entity("Demo.DAL.Models.EmployeeModel.Employee", b =>
+                {
+                    b.HasOne("Demo.DAL.Models.DepartmentModel.Department", "Department")
+                        .WithMany("Employees")
+                        .HasForeignKey("DepartmentId")
+                        .OnDelete(DeleteBehavior.SetNull);
+
+                    b.Navigation("Department");
+                });
+
+            modelBuilder.Entity("Demo.DAL.Models.DepartmentModel.Department", b =>
+                {
+                    b.Navigation("Employees");
                 });
 #pragma warning restore 612, 618
         }

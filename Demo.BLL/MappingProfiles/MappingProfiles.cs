@@ -21,6 +21,7 @@ namespace Demo.BLL.MappingProfiles
             CreateMap<Employee, EmployeeDto>()
                 .ForMember(dest => dest.EmpGender,Options=> Options.MapFrom(src => src.Gender))
                 .ForMember(dest => dest.EmpType,Options=> Options.MapFrom(src => src.EmployeeType))
+                .ForMember(dest => dest.Department, Options => Options.MapFrom(src => src.Department != null ? src.Department.Name : null))
                 .ReverseMap();
 
 
@@ -28,6 +29,7 @@ namespace Demo.BLL.MappingProfiles
                 .ForMember(dest => dest.Gender, Options => Options.MapFrom(src => src.Gender))
                 .ForMember(dest => dest.EmployeeType,Options=> Options.MapFrom(src => src.EmployeeType))
                 .ForMember(dest => dest.HiringDate, Options => Options.MapFrom(src => DateOnly.FromDateTime(src.HiringDate)))
+                .ForMember(dest => dest.Department, Options => Options.MapFrom(src => src.Department != null ? src.Department.Name : null))
                 .ReverseMap();
 
             CreateMap<CreateEmployeeDtos, Employee>()

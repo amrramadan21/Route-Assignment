@@ -1,4 +1,5 @@
-﻿using Demo.DAL.Models.Shared;
+﻿using Demo.DAL.Models.DepartmentModel;
+using Demo.DAL.Models.Shared;
 using Demo.DAL.Models.Shared.Enums;
 using System;
 using System.Collections.Generic;
@@ -30,6 +31,12 @@ namespace Demo.DAL.Models.EmployeeModel
             public Gender Gender { get; set; }
 
             public EmployeeType EmployeeType { get; set; }
+
+            public int? DepartmentId { get; set; }
+
+            public virtual Department? Department { get; set; }
+
+
 
     }
 }

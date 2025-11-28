@@ -17,22 +17,32 @@ namespace Demo.BLL.Services.Classes
     {
         public IEnumerable<EmployeeDto> GetAll(bool withTraching = false)
         {
-            var employees=_employeeRepository.GetAll();
 
-            //var employeeDto = employees.Select(emp => new Employee()
-            //{
-            //    Id = emp.Id,
-            //    Name = emp.Name,
-            //    Age = emp.Age,
-            //    Email = emp.Email,
-            //    EmployeeType = emp.EmployeeType,
-            //    Gender = emp.Gender,
-            //    IsActive = emp.IsActive,
-            //    Salary = emp.Salary,
-            //});
-            //return (IEnumerable<EmployeeDto>)employeeDto;
-            var employeeDto = _mapper.Map<IEnumerable<EmployeeDto>>(employees);
-            return employeeDto;
+            var employees = _employeeRepository.GetAll();
+            return _mapper.Map<IEnumerable<Employee>, IEnumerable<EmployeeDto>>(employees);
+
+            #region IEnumrable
+
+            //var result = _employeeRepository.GetIEnumerable()
+            //                                .Where(e => e.IsDeleted == false)
+            //                                .Select(e => new EmployeeDto()
+            //                                {
+            //                                    Id = e.Id,
+            //                                    Name = e.Name,
+            //                                    Age = e.Age
+            //      
+            #endregion                           });
+
+            #region IQueryable
+            //var result = _employeeRepository.GetIQueryable()
+            //                                   .Where(e => e.IsDeleted == false)
+            //                                   .Select(e => new EmployeeDto()
+            //                                   {
+            //                                       Id = e.Id,
+            //                                       Name = e.Name,
+            //                                       Age = e.Age
+            //                                   }); 
+            #endregion
         }
 
         public EmployeeDetailsDto? GetById(int id)
