@@ -1,6 +1,7 @@
 ﻿using Demo.BLL.DTOs.DepartmentsDTOs;
 using Demo.BLL.Factories;
 using Demo.BLL.Services.Interfaces;
+using Demo.DAL.Repositories.Classes;
 using Demo.DAL.Repositories.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -10,8 +11,14 @@ using System.Threading.Tasks;
 
 namespace Demo.BLL.Services.Classes
 {
-    public class DepartmentService(IDepartmentRepository _departmentRepository) : IDepartmentService
+    public class DepartmentService:IDepartmentService
     {
+        private readonly IUnitOfWork _unitOfWork;
+
+        public DepartmentService(IUnitOfWork unitOfWork) 
+        {
+            _unitOfWork = unitOfWork;
+        }
         // Mapping
         // 1. Manual Mapping
         //    a. Constructor Mapping
@@ -23,7 +30,7 @@ namespace Demo.BLL.Services.Classes
         // Get All Departments
         public IEnumerable<DepartmentDto> GetAll()
         {
-            var depts = _departmentRepository.GetAll();
+            var depts = _unitOfWork.DepartmentRepository.GetAll();
             var departmentsToReturn = depts.Select(d => d.ToDepartmentDto()); // Extension Method
             return departmentsToReturn;
         }
@@ -31,7 +38,7 @@ namespace Demo.BLL.Services.Classes
         // Get Department By Id
         public DepartmentDetailsDto? GetById(int id)
         {
-            var dept = _departmentRepository.GetById(id);
+            var dept = _unitOfWork.DepartmentRepository.GetById(id);
 
             #region Old Way of Manual Mapping
 
@@ -71,27 +78,32 @@ namespace Demo.BLL.Services.Classes
         }
 
         // Create Department
-        public int AddDepartment(CreatedDepartmentDto departmentDto)
+        public int AddDepartment(CreatedDepartmentDto dto)
         {
-            var entity = departmentDto.ToEntity();
-            return _departmentRepository.Add(entity);
+             _unitOfWork.DepartmentRepository.Add(dto.ToEntity());
+             return _unitOfWork.SaveChanges();
         }
 
         // Update Department
-        public int UpdateDepartment(UpdatedDepartmentDto departmentDto)
+        public int UpdateDepartment(UpdatedDepartmentDto dto)
         {
-            var entity = departmentDto.ToEntity();
-            return _departmentRepository.Update(entity);
+            _unitOfWork.DepartmentRepository.Update(dto.ToEntity());
+            return _unitOfWork.SaveChanges();
+
         }
 
         // Delete Department
         public bool DeleteDepartment(int id)
         {
-            var department = _departmentRepository.GetById(id);
+            var department = _unitOfWork.DepartmentRepository.GetById(id);
             if (department is null) return false;
 
-            var res = _departmentRepository.Remove(department);
-            return res > 0;
+            //return _unitOfWork.SaveChanges();
+
+
+
+            _unitOfWork.DepartmentRepository.Remove(department);
+            return _unitOfWork.SaveChanges()> 0;
         }
 
         #endregion

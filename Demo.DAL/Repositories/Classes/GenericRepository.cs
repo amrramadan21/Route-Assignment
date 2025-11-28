@@ -6,6 +6,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -41,34 +42,43 @@ namespace Demo.DAL.Repositories.Classes
                            .Where(entity => entity.IsDeleted == false)
                            .Select(selector).ToList();
         }
+
+        IEnumerable<TEntity> IGenericRepository<TEntity>.GetAll(Expression<Func<TEntity, bool>> predicate)
+        {
+            return _context.Set<TEntity>()
+                           .Where(predicate).ToList();
+                           
+        }
+
         #endregion
 
         #region Add 
 
         //Add TEntity
-        public int Add(TEntity entity)
+        public void Add(TEntity entity)
         {
             _context.Set<TEntity>().Add(entity);
-            return _context.SaveChanges();
+
+            //Add In Order Table
+            //Add In Order Items Table
+            //Update Stock In Stores
         }
         #endregion
 
         #region Update 
         //Update TEntity
-        public int Update(TEntity entity)
+        public void Update(TEntity entity)
         {
             _context.Set<TEntity>().Update(entity);
-            return _context.SaveChanges();
         }
         #endregion
 
 
         #region Delete
         //Delete TEntity
-        public int Remove(TEntity entity)
+        public void Remove(TEntity entity)
         {
             _context.Set<TEntity>().Remove(entity);
-            return _context.SaveChanges();
         }
 
         #endregion

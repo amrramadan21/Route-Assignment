@@ -2721,7 +2721,10 @@
         },
         "runtime": {
           "bin/placeholder/Demo.BLL.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "Demo.DAL/1.0.0": {
         "type": "project",

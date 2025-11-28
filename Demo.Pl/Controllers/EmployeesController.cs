@@ -14,9 +14,9 @@ namespace Demo.Pl.Controllers
                                      IWebHostEnvironment environment
                                     ) : Controller
     {
-        public IActionResult Index()
+        public IActionResult Index(string? EmployeeSearchName)
         {
-            var employees = _employeeService.GetAll();
+            var employees = _employeeService.GetAll(EmployeeSearchName);
             return View(employees);
         }
 

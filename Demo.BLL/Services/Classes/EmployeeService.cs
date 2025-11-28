@@ -13,17 +13,28 @@ using System.Threading.Tasks;
 
 namespace Demo.BLL.Services.Classes
 {
-    public class EmployeeService(IEmployeeRepository _employeeRepository,IMapper _mapper) : IEmployeeService
+    public class EmployeeService(IUnitOfWork unitOfWork,IMapper _mapper) : IEmployeeService
     {
-        public IEnumerable<EmployeeDto> GetAll(bool withTraching = false)
+        private readonly IUnitOfWork _unitOfWork = unitOfWork;
+
+        public IEnumerable<EmployeeDto> GetAll(string? EmployeeSearchName, bool withTraching = false)
         {
 
-            var employees = _employeeRepository.GetAll();
+            //var employees = _unitOfWork.EmployeeRepository.GetAll(e=> e.Name.ToLower().Contains(EmployeeSearchName.ToLower()));
+            //return _mapper.Map<IEnumerable<Employee>, IEnumerable<EmployeeDto>>(employees);
+
+
+            IEnumerable<Employee> employees;
+            if(string.IsNullOrWhiteSpace(EmployeeSearchName))
+                employees = _unitOfWork.EmployeeRepository.GetAll();
+            else
+                employees = _unitOfWork.EmployeeRepository.GetAll(e => e.Name.ToLower().Contains(EmployeeSearchName.ToLower()));
+
             return _mapper.Map<IEnumerable<Employee>, IEnumerable<EmployeeDto>>(employees);
 
             #region IEnumrable
 
-            //var result = _employeeRepository.GetIEnumerable()
+            //var result = _unitOfWork.EmployeeRepository.GetIEnumerable()
             //                                .Where(e => e.IsDeleted == false)
             //                                .Select(e => new EmployeeDto()
             //                                {
@@ -34,7 +45,7 @@ namespace Demo.BLL.Services.Classes
             #endregion                           });
 
             #region IQueryable
-            //var result = _employeeRepository.GetIQueryable()
+            //var result = _unitOfWork.EmployeeRepository.GetIQueryable()
             //                                   .Where(e => e.IsDeleted == false)
             //                                   .Select(e => new EmployeeDto()
             //                                   {
@@ -47,7 +58,7 @@ namespace Demo.BLL.Services.Classes
 
         public EmployeeDetailsDto? GetById(int id)
         {
-            var employee = _employeeRepository.GetById(id);
+            var employee = _unitOfWork.EmployeeRepository.GetById(id);
             if (employee == null) return null;
             return _mapper.Map<EmployeeDetailsDto>(employee);
         }
@@ -56,22 +67,27 @@ namespace Demo.BLL.Services.Classes
         public int AddEmployee(CreateEmployeeDtos dto)
         {
             var employee = _mapper.Map<Employee>(dto);
-            return _employeeRepository.Add(employee);
+             _unitOfWork.EmployeeRepository.Add(employee);
+            return _unitOfWork.SaveChanges();
+
         }
         public int UpdateEmployee(UpdateEmployeeDto dto)
         {
             var employee = _mapper.Map<Employee>(dto);
-            return _employeeRepository.Update(employee);
+            _unitOfWork.EmployeeRepository.Update(employee);
+            return _unitOfWork.SaveChanges();
+
         }
 
         public bool DeleteEmployee(int id)
         {
-            var employee = _employeeRepository.GetById(id);
+            var employee = _unitOfWork.EmployeeRepository.GetById(id);
             if (employee is null) return false;
             else
             {
                 employee.IsDeleted = true;
-                return _employeeRepository.Update(employee)> 0 ? true :false;
+                _unitOfWork.EmployeeRepository.Update(employee);
+                return _unitOfWork.SaveChanges() > 0 ? true :false;
             }
         }
 
