@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\API\\TalabatSolutiona\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0237A76F-1A5A-5014-2E73-EF51570592DC}|Talabat\\Talabat.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\api\\talabatsolutiona\\talabat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0237A76F-1A5A-5014-2E73-EF51570592DC}|Talabat\\Talabat.csproj|solutionrelative:talabat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0237A76F-1A5A-5014-2E73-EF51570592DC}|Talabat\\Talabat.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\api\\talabatsolutiona\\talabat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0237A76F-1A5A-5014-2E73-EF51570592DC}|Talabat\\Talabat.csproj|solutionrelative:talabat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB96884-7B0B-8D4C-5969-ADB7C75F52F7}|Infrastructure\\PesistenceLayer\\PersistenceLayer.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\api\\talabatsolutiona\\infrastructure\\pesistencelayer\\data\\configurations\\productconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB96884-7B0B-8D4C-5969-ADB7C75F52F7}|Infrastructure\\PesistenceLayer\\PersistenceLayer.csproj|solutionrelative:infrastructure\\pesistencelayer\\data\\configurations\\productconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0237A76F-1A5A-5014-2E73-EF51570592DC}|Talabat\\Talabat.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\api\\talabatsolutiona\\talabat\\talabat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0237A76F-1A5A-5014-2E73-EF51570592DC}|Talabat\\Talabat.csproj|solutionrelative:talabat\\talabat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB96884-7B0B-8D4C-5969-ADB7C75F52F7}|Infrastructure\\PesistenceLayer\\PersistenceLayer.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\api\\talabatsolutiona\\infrastructure\\pesistencelayer\\persistencelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0AB96884-7B0B-8D4C-5969-ADB7C75F52F7}|Infrastructure\\PesistenceLayer\\PersistenceLayer.csproj|solutionrelative:infrastructure\\pesistencelayer\\persistencelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11A5FF1-BF65-1F13-2585-D1F8F4C0C583}|Core\\DomainLayer\\DomainLayer.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\api\\talabatsolutiona\\core\\domainlayer\\contracts\\idataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11A5FF1-BF65-1F13-2585-D1F8F4C0C583}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\contracts\\idataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB96884-7B0B-8D4C-5969-ADB7C75F52F7}|Infrastructure\\PesistenceLayer\\PersistenceLayer.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\api\\talabatsolutiona\\infrastructure\\pesistencelayer\\dataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB96884-7B0B-8D4C-5969-ADB7C75F52F7}|Infrastructure\\PesistenceLayer\\PersistenceLayer.csproj|solutionrelative:infrastructure\\pesistencelayer\\dataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB96884-7B0B-8D4C-5969-ADB7C75F52F7}|Infrastructure\\PesistenceLayer\\PersistenceLayer.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\api\\talabatsolutiona\\infrastructure\\pesistencelayer\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB96884-7B0B-8D4C-5969-ADB7C75F52F7}|Infrastructure\\PesistenceLayer\\PersistenceLayer.csproj|solutionrelative:infrastructure\\pesistencelayer\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11A5FF1-BF65-1F13-2585-D1F8F4C0C583}|Core\\DomainLayer\\DomainLayer.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\api\\talabatsolutiona\\core\\domainlayer\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11A5FF1-BF65-1F13-2585-D1F8F4C0C583}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11A5FF1-BF65-1F13-2585-D1F8F4C0C583}|Core\\DomainLayer\\DomainLayer.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\api\\talabatsolutiona\\core\\domainlayer\\models\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11A5FF1-BF65-1F13-2585-D1F8F4C0C583}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11A5FF1-BF65-1F13-2585-D1F8F4C0C583}|Core\\DomainLayer\\DomainLayer.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\api\\talabatsolutiona\\core\\domainlayer\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11A5FF1-BF65-1F13-2585-D1F8F4C0C583}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11A5FF1-BF65-1F13-2585-D1F8F4C0C583}|Core\\DomainLayer\\DomainLayer.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\api\\talabatsolutiona\\core\\domainlayer\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11A5FF1-BF65-1F13-2585-D1F8F4C0C583}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB96884-7B0B-8D4C-5969-ADB7C75F52F7}|Infrastructure\\PesistenceLayer\\PersistenceLayer.csproj|c:\\users\\loq\\desktop\\amr\\web\\back-end\\api\\talabatsolutiona\\infrastructure\\pesistencelayer\\data\\migrations\\20251130053004_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB96884-7B0B-8D4C-5969-ADB7C75F52F7}|Infrastructure\\PesistenceLayer\\PersistenceLayer.csproj|solutionrelative:infrastructure\\pesistencelayer\\data\\migrations\\20251130053004_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataSeeding.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\API\\TalabatSolutiona\\Infrastructure\\PesistenceLayer\\DataSeeding.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\PesistenceLayer\\DataSeeding.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\API\\TalabatSolutiona\\Infrastructure\\PesistenceLayer\\DataSeeding.cs",
+              "RelativeToolTip": "Infrastructure\\PesistenceLayer\\DataSeeding.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvw0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T13:14:07.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDataSeeding.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\API\\TalabatSolutiona\\Core\\DomainLayer\\Contracts\\IDataSeeding.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Contracts\\IDataSeeding.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\API\\TalabatSolutiona\\Core\\DomainLayer\\Contracts\\IDataSeeding.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Contracts\\IDataSeeding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T13:12:45.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersistenceLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\API\\TalabatSolutiona\\Infrastructure\\PesistenceLayer\\PersistenceLayer.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\PesistenceLayer\\PersistenceLayer.csproj",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\API\\TalabatSolutiona\\Infrastructure\\PesistenceLayer\\PersistenceLayer.csproj",
+              "RelativeToolTip": "Infrastructure\\PesistenceLayer\\PersistenceLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-30T05:11:02.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Talabat.csproj",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\API\\TalabatSolutiona\\Talabat\\Talabat.csproj",
+              "RelativeDocumentMoniker": "Talabat\\Talabat.csproj",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\API\\TalabatSolutiona\\Talabat\\Talabat.csproj",
+              "RelativeToolTip": "Talabat\\Talabat.csproj",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-30T04:48:26.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\API\\TalabatSolutiona\\Talabat\\Program.cs",
+              "RelativeDocumentMoniker": "Talabat\\Program.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\API\\TalabatSolutiona\\Talabat\\Program.cs",
+              "RelativeToolTip": "Talabat\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T04:42:49.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\API\\TalabatSolutiona\\Talabat\\appsettings.json",
+              "RelativeDocumentMoniker": "Talabat\\appsettings.json",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\API\\TalabatSolutiona\\Talabat\\appsettings.json",
+              "RelativeToolTip": "Talabat\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-30T04:45:11.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\API\\TalabatSolutiona\\Infrastructure\\PesistenceLayer\\Data\\Configurations\\ProductConfigurations.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\PesistenceLayer\\Data\\Configurations\\ProductConfigurations.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\API\\TalabatSolutiona\\Infrastructure\\PesistenceLayer\\Data\\Configurations\\ProductConfigurations.cs",
+              "RelativeToolTip": "Infrastructure\\PesistenceLayer\\Data\\Configurations\\ProductConfigurations.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T04:38:49.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20251130053004_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\API\\TalabatSolutiona\\Infrastructure\\PesistenceLayer\\Data\\Migrations\\20251130053004_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\PesistenceLayer\\Data\\Migrations\\20251130053004_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\API\\TalabatSolutiona\\Infrastructure\\PesistenceLayer\\Data\\Migrations\\20251130053004_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\PesistenceLayer\\Data\\Migrations\\20251130053004_InitialCreate.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T05:30:04.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\API\\TalabatSolutiona\\Infrastructure\\PesistenceLayer\\Data\\StoreDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\PesistenceLayer\\Data\\StoreDbContext.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\API\\TalabatSolutiona\\Infrastructure\\PesistenceLayer\\Data\\StoreDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\PesistenceLayer\\Data\\StoreDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T04:38:04.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\API\\TalabatSolutiona\\Core\\DomainLayer\\Models\\ProductType.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\ProductType.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\API\\TalabatSolutiona\\Core\\DomainLayer\\Models\\ProductType.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T04:24:22.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductBrand.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\API\\TalabatSolutiona\\Core\\DomainLayer\\Models\\ProductBrand.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\ProductBrand.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\API\\TalabatSolutiona\\Core\\DomainLayer\\Models\\ProductBrand.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\ProductBrand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T04:24:07.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\API\\TalabatSolutiona\\Core\\DomainLayer\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\API\\TalabatSolutiona\\Core\\DomainLayer\\Models\\Product.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T04:23:52.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\API\\TalabatSolutiona\\Core\\DomainLayer\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Amr\\Web\\Back-End\\API\\TalabatSolutiona\\Core\\DomainLayer\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T04:23:43.53Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

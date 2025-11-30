@@ -1,0 +1,15 @@
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Core\ServiceAbstractionLayer\bin\Debug\net8.0\ServiceAbstractionLayer.deps.json
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Core\ServiceAbstractionLayer\bin\Debug\net8.0\ServiceAbstractionLayer.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Core\ServiceAbstractionLayer\bin\Debug\net8.0\ServiceAbstractionLayer.pdb
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Core\ServiceAbstractionLayer\bin\Debug\net8.0\Shared.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Core\ServiceAbstractionLayer\bin\Debug\net8.0\Shared.pdb
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.csproj.AssemblyReference.cache
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.AssemblyInfoInputs.cache
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.AssemblyInfo.cs
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceA.CFC80F52.Up2Date
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Core\ServiceAbstractionLayer\obj\Debug\net8.0\refint\ServiceAbstractionLayer.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.pdb
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ref\ServiceAbstractionLayer.dll
