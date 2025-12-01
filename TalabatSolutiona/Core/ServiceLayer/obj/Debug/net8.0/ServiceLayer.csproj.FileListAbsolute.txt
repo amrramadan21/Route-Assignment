@@ -17,3 +17,4 @@ C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Core\ServiceLayer\obj
 C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Core\ServiceLayer\obj\Debug\net8.0\refint\ServiceLayer.dll
 C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Core\ServiceLayer\obj\Debug\net8.0\ServiceLayer.pdb
 C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Core\ServiceLayer\obj\Debug\net8.0\ref\ServiceLayer.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Core\ServiceLayer\obj\Debug\net8.0\ServiceLayer.sourcelink.json

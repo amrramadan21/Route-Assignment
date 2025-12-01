@@ -159,3 +159,6 @@ C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Talabat\obj\Debug\net
 C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Talabat\obj\Debug\net8.0\ref\Talabat.dll
 C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Talabat\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
 C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Talabat\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Talabat\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Talabat\obj\Debug\net8.0\Talabat.sourcelink.json
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Talabat\bin\Debug\net8.0\Talabat.staticwebassets.runtime.json

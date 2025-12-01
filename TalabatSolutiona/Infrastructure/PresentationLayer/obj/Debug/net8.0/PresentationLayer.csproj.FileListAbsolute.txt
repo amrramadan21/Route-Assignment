@@ -15,3 +15,4 @@ C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Infrastructure\Presen
 C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Infrastructure\PresentationLayer\obj\Debug\net8.0\refint\PresentationLayer.dll
 C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Infrastructure\PresentationLayer\obj\Debug\net8.0\PresentationLayer.pdb
 C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Infrastructure\PresentationLayer\obj\Debug\net8.0\ref\PresentationLayer.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Infrastructure\PresentationLayer\obj\Debug\net8.0\PresentationLayer.sourcelink.json

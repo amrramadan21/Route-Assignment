@@ -9,3 +9,4 @@ C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Shared\obj\Debug\net8
 C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Shared\obj\Debug\net8.0\refint\Shared.dll
 C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Shared\obj\Debug\net8.0\Shared.pdb
 C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Shared\obj\Debug\net8.0\ref\Shared.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Shared\obj\Debug\net8.0\Shared.sourcelink.json
