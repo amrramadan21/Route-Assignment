@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using ServiceAbstractionLayer;
+using Shared;
 using Shared.DTOS;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -19,11 +20,9 @@ namespace PresentationLayer
 
         // Get All Products
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<ProductDto>>> GetAllProducts()
+        public async Task<ActionResult<PaginatedResult<ProductDto>>> GetAllProducts([FromQuery]ProductQueryParams queryParams)
         {
-            var products = await _serviceManager.ProductService.GetAllProductsAsync();
-            if (products == null || !products.Any())
-                return NotFound("No products found.");
+            var products = await _serviceManager.ProductService.GetAllProductsAsync(queryParams);
             return Ok(products);
         }
 
@@ -32,8 +31,6 @@ namespace PresentationLayer
         public async Task<ActionResult<ProductDto>> GetProductById(int id)
         {
             var product = await _serviceManager.ProductService.GetProductByIdAsync(id);
-            if (product == null)
-                return NotFound($"Product with id {id} not found.");
             return Ok(product);
         }
 
@@ -42,8 +39,6 @@ namespace PresentationLayer
         public async Task<ActionResult<IEnumerable<BrandDto>>> GetAllBrands()
         {
             var brands = await _serviceManager.ProductService.GetAllBrandsAsync();
-            if (brands == null || !brands.Any())
-                return NotFound("No brands found.");
             return Ok(brands);
         }
 
@@ -51,9 +46,7 @@ namespace PresentationLayer
         [HttpGet("types")]
         public async Task<ActionResult<IEnumerable<TypeDto>>> GetAllTypes()
         {
-            var types = await _serviceManager.ProductService.GetAllTypesAsync();
-            if (types == null || !types.Any())
-                return NotFound("No types found.");
+            var types = await _serviceManager.ProductService.GetAllTypesAsync(); 
             return Ok(types);
         }
     }
