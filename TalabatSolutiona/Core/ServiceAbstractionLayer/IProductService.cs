@@ -1,5 +1,5 @@
 ﻿using Shared;
-using Shared.DTOS;
+using Shared.DTOS.ProductDtos;
 using System;
 using System.Collections.Generic;
 using System.Dynamic;

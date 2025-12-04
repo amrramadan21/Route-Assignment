@@ -1,0 +1,34 @@
+﻿using DomainLayer.Contracts;
+using DomainLayer.Models.BasketModels;
+using StackExchange.Redis;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Text.Json;
+using System.Threading.Tasks;
+
+namespace PersistenceLayer.Repositories
+{
+    public class BasketRepository(IConnectionMultiplexer connection) : IBasketRepository
+    {
+        private readonly    IDatabase _database = connection.GetDatabase();
+        public async Task<CustomerBasket> CreateOrUpdatetBasketAsync(CustomerBasket basket, TimeSpan? TimeToLive = null)
+        {
+            var jsonBasket = JsonSerializer.Serialize(basket);
+            var isCreatedOrUpdated = await _database.StringSetAsync(basket.Id, jsonBasket, TimeToLive ?? TimeSpan.FromDays(30));
+            if (isCreatedOrUpdated) return basket;
+            else return null!;
+        }
+
+        public async Task<bool> DeleteBasektAsync(string key)
+            => await _database.KeyDeleteAsync(key); 
+        
+        public async Task<CustomerBasket?> GetBasketAsync(string key)
+        {
+            var basket = await _database.StringGetAsync(key);
+            if (basket.IsNullOrEmpty)return null;
+            else return JsonSerializer.Deserialize<CustomerBasket>(basket!);
+        }
+    }
+}

@@ -1,11 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using ServiceAbstractionLayer;
 using Shared;
-using Shared.DTOS;
+using Shared.DTOS.ProductDtos;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace PresentationLayer
+namespace PresentationLayer.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
