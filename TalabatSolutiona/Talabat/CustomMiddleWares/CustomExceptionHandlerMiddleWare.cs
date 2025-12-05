@@ -34,25 +34,36 @@ namespace Talabat.CustomMiddleWares
 
         private static async Task HandleExceptionAsync(HttpContext httpcontext, Exception ex)
         {
-            //Set Status Code For Response
-            httpcontext.Response.StatusCode = ex switch
-            {
-                NotFoundException => StatusCodes.Status404NotFound,
-                _ => StatusCodes.Status500InternalServerError
-            };
-
-            //Set Content Type For Response
-            //httpcontext.Response.ContentType = "application/json";
 
             //Create Response Object
             var response = new ErrorToReturn()
             {
-                StatusCode = httpcontext.Response.StatusCode,
                 ErrorMessage = ex.Message
             };
+            //Set Status Code For Response
+            httpcontext.Response.StatusCode = ex switch
+            {
+                NotFoundException => StatusCodes.Status404NotFound,
+                UnauthorizedException => StatusCodes.Status401Unauthorized,
+                BadRequestException badRequestEx => GetBadRequestErrors(badRequestEx, response),
+                _ => StatusCodes.Status500InternalServerError
+            };
+            response.StatusCode = httpcontext.Response.StatusCode;
+
+
+            //Set Content Type For Response
+            //httpcontext.Response.ContentType = "application/json";
+
+           
 
             //Write Response As Json
             await httpcontext.Response.WriteAsJsonAsync(response);
+        }
+
+        private static int GetBadRequestErrors(BadRequestException badRequestException,ErrorToReturn response)
+        {
+            response.Errors = badRequestException.Errors;
+            return StatusCodes.Status400BadRequest;
         }
 
         private static async Task HandleNotFoundEndPointAsync(HttpContext httpcontext)

@@ -1,9 +1,13 @@
 
 using DomainLayer.Contracts;
+using DomainLayer.Models.IdentityModels;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 using PersistenceLayer;
 using PersistenceLayer.Data;
+using PersistenceLayer.Identity;
 using PersistenceLayer.Repositories;
 using ServiceAbstractionLayer;
 using ServiceLayer;
@@ -38,6 +42,9 @@ namespace Talabat
 
             //calling Web Application Services
             builder.Services.AddWebApplicationService();
+
+      
+
             #endregion
 
             #endregion

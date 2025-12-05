@@ -13,6 +13,11 @@ namespace Talabat.Extentions
             return Services;
         }
 
+        //private static void ConfigureJWT(this IServiceCollection services,IConfiguration configuration)
+        //{
+        //    var jwt = configuration.GetSection("JwtOtions").Get<JWTOptions>;
+        //}
+
         public static IServiceCollection AddWebApplicationService(this IServiceCollection Services)
         {
             Services.Configure<ApiBehaviorOptions>(options =>

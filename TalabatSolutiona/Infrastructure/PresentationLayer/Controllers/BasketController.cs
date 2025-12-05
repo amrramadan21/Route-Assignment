@@ -26,7 +26,7 @@ namespace PresentationLayer.Controllers
             var result = await _serviceManager.BasketService.CreateOrUpdatetBasketAsync(basket);
             return Ok(basket);
         }
-
+ 
         [HttpDelete]
         public async Task<ActionResult<bool>> DeleteBasket(string Key)
         {

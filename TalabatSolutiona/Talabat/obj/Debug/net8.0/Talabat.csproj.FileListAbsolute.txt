@@ -162,3 +162,12 @@ C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Talabat\bin\Debug\net
 C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Talabat\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Talabat\obj\Debug\net8.0\Talabat.sourcelink.json
 C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Talabat\bin\Debug\net8.0\Talabat.staticwebassets.runtime.json
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Talabat\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Talabat\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Talabat\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Talabat\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Talabat\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Talabat\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Talabat\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Talabat\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\API\TalabatSolutiona\Talabat\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

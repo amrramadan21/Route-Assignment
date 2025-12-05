@@ -1,6 +1,136 @@
 [
   {
-    "ContainingType": "PresentationLayer.ProductsController",
+    "ContainingType": "PresentationLayer.Controllers.AuthenticationController",
+    "Method": "Login",
+    "RelativePath": "api/Authentication/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDto",
+        "Type": "Shared.DTOS.IdentityDtos.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Shared.DTOS.IdentityDtos.UserDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PresentationLayer.Controllers.AuthenticationController",
+    "Method": "Register",
+    "RelativePath": "api/Authentication/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerDto",
+        "Type": "Shared.DTOS.IdentityDtos.RegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Shared.DTOS.IdentityDtos.UserDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PresentationLayer.Controllers.BasketController",
+    "Method": "GetBasket",
+    "RelativePath": "api/Basket",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Key",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Shared.DTOS.BasketDtos.BasketDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PresentationLayer.Controllers.BasketController",
+    "Method": "CreateOrUpdateBasket",
+    "RelativePath": "api/Basket",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "basket",
+        "Type": "Shared.DTOS.BasketDtos.BasketDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Shared.DTOS.BasketDtos.BasketDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PresentationLayer.Controllers.BasketController",
+    "Method": "DeleteBasket",
+    "RelativePath": "api/Basket",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Key",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PresentationLayer.Controllers.ProductsController",
     "Method": "GetAllProducts",
     "RelativePath": "api/Products",
     "HttpMethod": "GET",
@@ -40,7 +170,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "Shared.PaginatedResult\u00601[[Shared.DTOS.ProductDto, Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "Shared.PaginatedResult\u00601[[Shared.DTOS.ProductDtos.ProductDto, Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -51,7 +181,7 @@
     ]
   },
   {
-    "ContainingType": "PresentationLayer.ProductsController",
+    "ContainingType": "PresentationLayer.Controllers.ProductsController",
     "Method": "GetProductById",
     "RelativePath": "api/Products/{id}",
     "HttpMethod": "GET",
@@ -66,7 +196,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "Shared.DTOS.ProductDto",
+        "Type": "Shared.DTOS.ProductDtos.ProductDto",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -77,7 +207,7 @@
     ]
   },
   {
-    "ContainingType": "PresentationLayer.ProductsController",
+    "ContainingType": "PresentationLayer.Controllers.ProductsController",
     "Method": "GetAllBrands",
     "RelativePath": "api/Products/brands",
     "HttpMethod": "GET",
@@ -86,7 +216,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[Shared.DTOS.BrandDto, Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Shared.DTOS.ProductDtos.BrandDto, Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -97,7 +227,7 @@
     ]
   },
   {
-    "ContainingType": "PresentationLayer.ProductsController",
+    "ContainingType": "PresentationLayer.Controllers.ProductsController",
     "Method": "GetAllTypes",
     "RelativePath": "api/Products/types",
     "HttpMethod": "GET",
@@ -106,7 +236,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[Shared.DTOS.TypeDto, Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Shared.DTOS.ProductDtos.TypeDto, Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
